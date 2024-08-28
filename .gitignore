@@ -1,0 +1,11 @@
+.env
+laws
+.chroma
+**/__pycache__
+**/.DS_Store
+tmp_references.pkl
+.models
+.archive
+.vscode
+.git.old
+test_data/Pravko odgovori.docx

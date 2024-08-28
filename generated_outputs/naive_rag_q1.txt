@@ -1,0 +1,237 @@
+Pogojnost preverjanja ujemanja stanja posameznih aktivnih in pasivnih postavk v poslovnih knjigah z dejanskim stanjem je odvisna od več faktorjev, kot so:
+
+**1. Velikost in kompleksnost podjetja:** Večji in kompleksnejši podjetje zahtevajo pogostost preverjanja, saj imajo več transakcij in aktiv/pasivnih postavk, kar poveča možnost napak ali zlorabe.
+
+**2. Narava poslovanja:** Podjetja v sektorjih s hitrim obratovanjem (npr. finančni sektor) ali tista, ki so izpostavljena velikim spremembam cen in tržnih pogojev, potrebujejo pogostejšo preverjanje stanja poslovnih knjig.
+
+**3. Uporaba računalniškega programa za knjigovodstvo:** Program za knjigovodstvo z integriranimi kontrolnimi mehanizmi omogoča bolj natančno in avtomatsko spremljanje stanja aktiv/pasivnih postavk, kar lahko zmanjša potrebo po ročni preverjanju.
+
+**4. Notranje kontrole in audit:** Dobro delujoči sistem notranjih kontrol in redni interni auditi prispevajo k pravilnemu delovanju poslovnih knjig in zmanjšajo potrebo po pogostosti preverjanja stanja aktiv/pasivnih postavk.
+
+**5. Zakonodaja:** Posamezne države ali jurisdikcije lahko določijo konkretne zahteve glede pogostnosti preverjanja stanja poslovnih knjig.
+
+**V splošnem se priporoča, da so aktivne in pasivne postave v poslovnih knjigah preverjene:**
+
+* **Vsak mesec:** Za podjetja z manjšo kompleksnostjo poslovanja in uporabo računalniškega programa za knjigovodstvo.
+* **Vsaj vsako polletje:** Za večja in kompleksnejša podjetja ali tista, ki nimajo avtomatiziranih sistemov kontrole.
+* **Vsako leto:** Za manjša podjetja z omejeno stopnjo tveganja in redkim nakupom/prodajo aktiv/pasivnih postavk.
+
+**Pomembno je poudariti,** da ta priporočila niso univerzalna in se lahko glede na posamezno situacijo razlikujejo. Predstavniki podjetja bi morali posvetovat z računovodskim svetovalcem ali auditorjem, da bi določili ustrezno pogostost preverjanja stanja poslovnih knjig za svoje podjetje.
+---
+Mikro družba je zelo majhna podjetja, ki se pogosto zanašajo na inovativne modele poslovanja in prilagodljive strukture.
+
+**Ključne značilnosti mikro družbe:**
+
+* **Manjši obseg zaposlenih:** Običajno imajo manj kot 10 zaposlenih.
+* **Sredstva in kapital:** Obsegajo majhen kapitalski vložek, pogosto samo lastniški denar ali financiranje s strani prijateljev in družine.
+* **Inovativnost:** Mikro družbe se pogosto ukvarjajo z inovativnimi idejami in modeli poslovanja.
+* **Prilagodljivost:** Zaradi svoje velikosti so mikro družbe bolj prilagodljive na spremembe na trgu.
+* **Potrpežljivost:** Mikro družbe so običajno usmerjene v dolgoročni razvoj in ne ciljajo po hitrem dobičku.
+
+**Prednosti mikro družb:**
+
+* **Manjši administrativni obremenitev:** Zaradi manjšega števila zaposlenih je administrativna obremenitev nižja.
+* **Hitrejša odločevalna procesa:** Majhnost omogoča hitreje sprejemanje odločitev.
+* **Blizu strankam:** Mikro družbe pogosto zbirajo dragocene informacije od svojih strank, kar jim pomaga pri izboljšanju produktov in storitev.
+
+**Slabosti mikro družb:**
+
+* **Omejen dostop do finančnih sredstev:** Mikro družbe se lahko soočijo s težavami pri pridobivanju financiranja za rast.
+* **Visok nivo tveganja:** Majhna velikost pomeni, da so mikro družbe bolj občutljive na tržne nihanja.
+* **Omejena kadrovska baza:** Mikro družbe lahko imajo težave pri nabiranju talentiranih delavcev.
+
+
+Mikro družbe igrajo pomembno vlogo v gospodarstvu, saj spodbujajo inovacijo in ustvarjanje novih del.
+---
+Žal mi je, vendar ne morem odgovoriti na to vprašanje. Nemogoče je reči, ali je določena zavarovalnica "velika" brez dodatnih kontekstualnih informacij.
+
+**Kaj bi lahko veljalo za "veliko" zavarovalnico?**
+
+* **Število zaposlenih:** Velike zavarovalnice imajo večje število zaposlenih.
+* **Prihodki:** Velike zavarovalnice ustvarjajo več prihodkov.
+* **Aktiva:** Velike zavarovalnice imajo večje akumulirane aktivnosti.
+* **Obseg poslovanja:** Velike zavarovalnice operirajo v širšem obsegu, pokrivajoč različna področja in geografske regije.
+
+**Za odgovor na vaše vprašanje bi potrebovala več informacij o konkretni zavarovalnici.**
+
+
+Lahko mi poveš ime zavarovalnice?
+---
+Revizor mora revizijski komisiji poročati o vseh pomembnih ugotovitvah in sklepih, ki jih je pridobil med revizijo.
+
+**Ta poročilo naj obsega naslednje:**
+
+* **Vpeljavo:** Opis cilja revizije, časovnega obdobja, pregledanih dejavnosti in uporabljenih metodologij.
+* **Opis organizacije/dejavnosti:** Kratek opis organizacije ali dejavnosti, ki so bile podvržene reviziji.
+* **Ugotovitve:**
+
+    * Pregled glavnih ugotovitev glede finančnega stanja, poslovanja in varnosti sredstev.
+    * Prikaz morebitnih nepravilnosti, slabosti ali tveganj, ki so bili odkriti med revizijo.
+
+* **Sklepi:**
+   * Analiza ugotovitev in izpeljana mnenja o ustreznosti finančnega poročanja, notranje kontrole in poslovanja v celotnem.
+   * Predloge za ukrepe, ki jih je treba sprejeti za odpravo nepravilnosti ali zmanjšanje tveganj.
+
+* **Prilogi:** Dokumenti, ki podpirajo ugotovitve in sklepe (npr. intervjui s poslovnimi partnerji, analize podatkov, dokumenti o notranjem nadzoru).
+
+
+**Revizor mora poročati tudi o svojih omejitvah:**
+
+* Omejitve v dostopu do informacij ali dokumenti.
+* Nedostost kakršnihkoli drugih virov za uspešno izvedbo revizije.
+---
+Poročilo revizijskega pregleda je pomemben dokument, ki pomaga organizaciji pri izboljšanju svojega poslovanja in upravljanja. Revizijski komisiji omogoča informiran sprejem odločitev glede finančnega stanja, notranje kontrole in varnosti sredstev organizacije.
+
+
+Pri vrednotenju sredstev in obveznosti do vira sredstev, ki na podlagi združitve ali delitve preidejo na prevzemno družbo, je treba biti pozoren na naslednje:
+
+**Sredstva:**
+
+* **Vrednotenje po izvirni ceni:** V kolikor so sredstva že bilene v obstoječih knjigah, se mora njihova vrednost prilagoditi novi družbi. To pomeni, da je treba upoštevati morebitne razlike v računovodskih politikah in standardih med združenimi družbami.
+* **Vrednotenje po tržni ceni:** V primeru nematerialnih sredstev (npr. blagovne znamke, patentski pravice) je treba upoštevati njihovo tržno vrednost.
+* **Prihodki in izgubi:** Pri prenosu poslovnih aktivnosti na prevzemno družbo je treba upoštevati morebitne prihodke in izgube, ki nastanejo v času prenosa.
+
+**Obveznosti:**
+
+* **Vrednotenje po nominalni vrednosti:** Obveznosti se običajno vrednotijo po nominalni vrednosti, ki je navedena v pogodbah.
+* **Prilagoditev za inflacijo:** V kolikor so obveznosti dolgoveče, je treba upoštevati morebitne prilagoditve zaradi inflacije.
+* **Nedoločene obveznosti:** Je treba preveriti, ali obstajajo neomejene obveznosti, ki jih ni mogoče izrecno ugotoviti v pogodbah, in jih primerno vrednotiti.
+
+**Viri sredstev:**
+
+* **Prehod kapitala:** Pri združitvi družb se kapital prenese na prevzemno družbo. V kolikor gre za delitvijo družbe, se kapital razdeli med ustanovljene družbe.
+* **Prevod rezerv in prihrankov:** Rezervne sklade in prihranki se običajno preselijo na prevzemno družbo.
+
+**Ostalo:**
+
+* **Poslovni model:** Vrednotenje sredstev in obveznosti je treba izvesti v okviru poslovnega modela prevzemne družbe, kar pomeni, da je treba upoštevati morebitne spremembe v strategiji in operativnih procesih.
+* **Nejasnosti in tveganja:** Vrednotenje prehodnih sredstev in obveznosti je lahko zapleteno in zahteva temeljito analizo. Je treba pozornost nameniti morebitnim nejasnostim in tveganjem, ki se pojavijo v času združitve ali delitve družb.
+
+Pri vrednotenju prehodnih sredstev in obveznosti je priporočljivo, da se izvede neodvisna revizija s strani certificiranega računovodskega podjetja.
+---
+Vprašanje o tem, kaj se zgodi s podjetjem, ko umre podjetnik, je kompleksno in odgovori so različni. Zavezanostjo podjetnika do poslovanja in vrste pravne oblike podjetja, ki ga vodi, so odvisni na:
+
+**1. Pravna oblika podjetja:**
+
+* **Samostojna gospodarsko dejavnost (SGD):** Pri SGD preneha oblika s smrtjo posameznika.
+    * Živeči družinski člani lahko prevzamejo lastništvo in nadaljujejo poslovanje, vendar morajo odgovori za dolžnosti podjetja prevzeti v svojo poslovno pravno obliko.
+    * Poslovne aktivnosti se lahko prenesejo na tretje osebe, ki so bile vnaprej dogovorjene s podjetnikom.
+
+* **Družba z omejeno odgovornostjo (doo):** Doo je ločena pravna oseba, zato ne preneha ob smrti lastnika. Družbeniki se lahko dogovorijo o prevzemu vseh ali nekaterih delnic v soobstantev družbene pogodbe in poslovnih pravil.
+    * Če ni dogovora, bodo delnice podedovane po zakonodaji.
+
+* **Akcijska družba (ad):** Ad je pravna oseba, ki ne preneha ob smrti lastnika ali akcionarja.
+    * Delnicarji se lahko odločijo za izvrševanje pravic, kot so prevzem delnic in nadaljevanje poslovanja.
+
+**2. Poslovni načrt:**
+
+* V primeru, da je podjetnik prej pripravil poslovni načrt, ki obravnava situacijo smrti lastnika, bo slednji jasno opredeljen.
+    * Njegove smernice bodo pomagale pri nadaljevanju poslovanja ali likvidaciji podjetja.
+
+**3. Zakon:**
+
+* Slovenija ima zakonodajo, ki ureja postopke za prevzem in nadaljevanje poslovanja po smrti lastnika.
+    * V primeru nejasnosti se lahko posvetlijo odgovori z nasvetlom pravnega strokovnjaka.
+
+**Pomembno je:**
+
+* Da podjetnik poskrbi za ustrezno dokumentacijo in dogovorove, ki bodo v primeru smrti jasno opredelili nadaljnji tok poslovanja.
+* Sodelovanje s pravnikom in računovoditeljem pri pripravi ustreznih pogodb in poslovnih načrtov je ključno za zagotavljanje stabilnosti podjetja tudi po smrti lastnika.
+
+
+
+Spodbujam, da se posvetite tem vidikom in poiščete nasvete od strokovnjakov, da boste zagotovili prihodnost svojega podjetja.
+---
+Firma podjetnika je lahko sestavljena iz različnih elementov, odvisno od njene velikosti, strukture in industrije. V bistvu pa se zdi, da iščete seznam ključnih komponent, ki jih najdemo v vsaki podjetniški organizaciji. Tukaj je nekaj pomembnih:
+
+**1. Poslovna ideja & poslanska strategija:**
+
+* **Poslovna ideja:** To je temelj vsega - kaj podjetje ponuja in kako se razlikuje od konkurence?
+* **Poslanska strategija:** Kako bo podjetje dosegalo svoje cilje? Kdo so njegovi ciljni kupci, kakšni so njegovi marketing načini in kakšen je njegov model prihodka?
+
+**2. Pravna struktura:**
+
+* To določa pravne odgovornosti in davčne obveznosti podjetnika. Najpogostejše vrste vključujejo samostojnika, društvo, družbo s omejeno odgovornostjo (d.o.o.) ali akcionarsko družbo (a.d.).
+
+**3. Finance:**
+
+* **Osnovni kapital:** Denar ali vredne stvari, ki jih je podjetnik vložil v podjetje.
+* **Oblikovanje finančnih instrumentov:**  Odločbe o poslovanju z bančnimi krediti, investicijskimi fondovi in drugi finančnimi instrumenti.
+* **Knjigovodstvo & računovodstvo:** Pravilno beleženje prihodkov, izdatkov in poslovnih transakcij za učinkovito upravljanje finance.
+
+**4. Operacije:**
+
+* **Producentstvo/Storitve:** Kako podjetje proizvaja svoje izdelke ali nudi svoje storitve?
+* **Logistika:** Organizacija dobave surovcev, izdelave in distribucije končnih izdelkov.
+* **Tehnologija & infrastruktura:** Oblikovanje in uporaba tehnologije za povečanje učinkovitosti in zmanjšanje stroškov.
+
+**5. Zaposleni:**
+
+* **Zaposlovanje & usposobljenost:** Izmirenje potrebe po zaposlenih s pravnimi obveznostmi, usposabljanjem in motivacijo delavcev.
+* **Delovna kultura:** Ustvarjanje pozitivnega in produktivnega dela z ustreznimi politikami in normativi.
+
+**6. Marketing & prodaja:**
+
+* **Poslovni razvoj & marketing strategije:**  Identifikacija ciljnih kupcev, oblikovanje promocijskih akcij in gradnja blagovne znamke.
+* **Prodaja & distribucija:** Prodaja izdelkov ali storitev kupcem preko različnih kanalov.
+
+**7. Odnosi z javnostmi:**
+
+* **Komunikacija s strankami:** Zagotavljanje odzivnosti na povpraševanja, reševanje težav in vzdrževanje dobrega odnosa s strankami.
+* **Mediji & PR:** Uporaba medijev in public relations za krepitev blagovne znamke in ustvarjanje pozitivnega ugleda podjetja.
+
+
+To je samo splošna lista in ne zajema vseh možnih elementov, ki so lahko pomembni za določeno podjetje. Vsebuje pa bistvene komponente, ki jih najdemo v skoraj vsi podjetniške organizacije.
+---
+Prokura se običajno **preneha s smrtjo ali izgubo poslovnih sposobnosti podjetnika**.
+
+**Smrt:** Prokura je osebni pravni odnos, ki ga ima posameznik z drugimi subjekti. S smrtjo prokurista se ta pravni odnos razreši.
+
+**Izguba poslovnih sposobnosti:** Če podjetnik izgubi poslovne sposobnosti zaradi bolezni ali kakšne drugega razloga, mu lahko sodišče prepove opravljanje določenih dejanj, vključno z upravljanjem podjetja. V takem primeru prokura morda preneha veljati ali pa se ji prilagodi na način, ki upošteva omejitve poslovnih sposobnosti podjetnika.
+
+Poleg tega prokura **lahko preneha** tudi zaradi drugih razlogov, kot so:
+
+* Revizija pogodbe o prokturi.
+* Izrecno odpoved prokursta ali podjetnika.
+* Sodni sklep.
+
+
+Vsebujejo vsebino pravnega značaja in ne morejo zamenjati mnenja odvetnika. Za specifične informacije glede vaše situacije se obrnite na ustreznega strokovnjaka.
+---
+Podjetnik, ki uporablja sistem enostavnega knjigovodstva, mora poslovne knjige voditi **do konca leta**, v katerem se konča dejavnost.
+
+To pomeni, da jih ne more "voidati" takoj po zaključku poslovanja. Morajo biti vodili do konca poslovalnega leta, nato pa jih mora podjetnik skupaj s poročili o poslu in davčno napovedjo oddati pristojnemu organu (davčni uradu).
+
+**Pomembno je:**
+
+*  Sistem enostavnega knjigovodstva se uporablja le za majhna podjetja z omejenim obsegom dejavnosti in dohodka.
+* Če se odločite za prehod na sistem dvojnega knjigovodstva, morate to storiti pred koncem poslovalnega leta, v katerem želite izvesti spremembo.
+
+Za natančnejše informacije o vođenju poslovnih knjig in odpovedi sistema enostavnega knjigovodstva se obrnite na davčni urad ali licenciranega računovodjo.
+---
+Tudi v Sloveniji obstaja razlika med stvarnim vložkom in stvarnim prevzemom, ki se nanaša na premoženje.
+
+**Stvarni vložek** je predmet, ki ga posameznik vloži v podjetje pri ustanovitvi ali kasneje. To so fizične dobrine z določenim materialnim obstojem in jih je mogoče zaznati s čutili. Primeri: oprema, stroji, vozila, zemljišče.
+
+**Stvarni prevzem** pa se nanaša na predmete, ki jih podjetje prevzame od drugih subjektov, običajno kot del poslovanja ali prenosa lastništva. Pri tem gre lahko za stvari, ki so bile že v uporabi ali pa so bile kupljene posebej za ta namen. Primeri: skladišče, proizvodna linija, zaloga blaga.
+
+**Premoženjski predmeti, ki se ne štejejo kot stvarni vložki ali prevzemi:**
+
+* **Nedoločeni intelektualni pravice:** To so pravice, ki jih ni mogoče fizično zaznati, kot so patentna zaščita za izum ali avtorska pravica. V podjetju se lahko vrednotijo in vplivajo na njegovo dejavnost, a niso stvarni predmeti.
+* **Nepomembni finančni instrumenti:** Občinski obveznice ali delnic so lahko zgolj pridobljena za posamezne transakcije ali kratkoročno investicijo in se ne štejejo kot stalni vložki v podjetje.
+* **Dobri glas in ugled:** Dobri glas je immaterialen, a ključen dejavnik za uspeh podjetja. Njegova vrednost je lahko visoka, vendar se ne šteje kot stvarni vložek ali prevzem.
+* **Klientne baze:** Klientna baza je pomemben aktiv, ki ga pridobijo podjetja s trgovinsko dejavnostjo.  Ni pa fizičnega predmeta in se tako ne šteje kot stvarni vložek ali prevzem.
+
+Obstaja veliko subtilnih razlik med različnimi premoženjskimi predmeti in kako se uvrščajo v kategorijo stvarnega vložka ali prevzema. V konkretnih primerih je pogosto potrebno posvetovanje s strokovnjakom, kot je davčni svetovalec ali pravnik.
+---
+V Sloveniji ni nujno potreben mnenje revizorja pri ustanovitvi družbe z realnim kapitalom v naslednjih primerih:
+
+* **Pri ustanovitvi minimalne družbe (s.r.o.):** Za s.r.o. je dovolj, da ima vsaj enega akcionarja in da vložek znaša vsaj 7.500 EUR.
+* **Pri ustanovitvi dioničarjev družbe z omejenim odgovornostjo (d.o.o.):** V tem primeru mora biti vložek najmanj 10.000 EUR in mora biti vseh akcionarjev skupaj vsaj pet (5) oseb.
+
+V obeh primerih je treba vložke potrditi s pogodbo o ustanovitvi, ki jo mora podpisati vsaj eden od ustanoviteljev. V pogodbi o ustanovitvi se mora navesti tudi ime in sedež družbe, namen poslovanja, velikost kapitala, deleže akcionarov in druge pomembne informacije.
+
+**V primeru, da je vložek večji od 50.000 EUR, pa je mnenje revizorja vedno potrebno.**
+
+
+Pomembno je poudariti, da veljajo te pravice v skladu z aktualnimi zakoni in predpisi. Za popoln pregled in najtočnejšo informacij se posvetujte pri strokovnih svetovalcih ali na spletni strani Upravne enote Republike Slovenije.

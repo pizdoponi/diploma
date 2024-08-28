@@ -1,0 +1,122 @@
+Za namene letnega poročanja poročamo kot velika družba, če smo ena izmed naslednjih:
+
+* banka
+* zavarovalnica
+* borza vrednostnih papirjev
+* družba, ki po 56. členu tega zakona mora pripraviti konsolidirano letno poročilo
+---
+Kot majhna družba za vas veljajo nekoliko drugačna pravila glede oddaje letnega poročila.
+
+Glede na podano informacijo, je letno poročilo za vašo družbo sestavljeno vsaj iz:
+
+* **bilance stanja**
+* **izkaza poslovnega izida**.
+
+
+Pomembno je upoštevati tudi, da mora biti letno poročilo jasno in pregledno ter izkazati resničen in pošten prikaz vašega finančnega položaja. Vsi člani poslovodstva morajo podpisati letno poročilo.
+---
+Ne moraš.
+
+V skladu s tem, kar si mi sporočil, majhne družbe niso obvezne k revidiranju računovodskih izkazov.
+---
+Ker ste majhna družba, morate za namene letnega poročanja pripraviti vsaj:
+
+* **Bilanco stanja**
+* **Izkaz poslovnega izida**
+
+
+Dodatnih dokumentov, kot so izkaz denarnih tokov, izkaz gibanja kapitala ali poslovno poročilo, v vašem primeru ne morate pripravljati.
+---
+Ker ste samostojni podjetnik posameznik, se nanašate na določbe, ki urejajo vodenje poslovnih knjig za majhne družbe.
+
+V skladu s tem vam veljajo naslednje zahteve:
+
+* **Poseben slovenski računovodski standard:** Vodenje poslovnih knjig in sestavljanje računovodskih izkazov mora biti v skladu z posebnim slovenskim računovodskim standardom za majhne družbe.
+
+* **Možnost enostavnega knjigovodstva:**  Lahko voditel poslovne knjige po sistemu enostavnega knjigovodstva, če v zadnjem poslovnem letu niste prekoračili dveh izmed teh meril:
+
+    - povprečno število delavcev ne presega tri
+    - letni prihodki so nižji od 42.000 eurov
+    - povprečna vrednost aktive, izračunana kot polovica seštevka vrednosti aktive na prvi in zadnji dan poslovnega leta, ne presega 25.000 eurov
+
+* **Izjema za vodjenje knjig:** Ni vam treba voditi poslovnih knjig in sestaviti letnega poročila, če izpolnjujete pogoje za zavezance za davek od dohodka iz dejavnosti in zakon ureja davčne norme.
+
+
+POMEMBNO je, da se podrobneje seznanite s konkretnimi zahtevami  posebnega slovenskega računovodskega standarda za majhne družbe ter z zakonskimi določbami o davek od dohodka iz dejavnosti.
+---
+Da, je to mogoče!
+
+Podatki kažejo, da se za prenos dela podjetja uporabljajo določbe 667. do 673. člena zakona (razen določenih izjem).
+
+**Kaj morate storiti:**
+
+1. **Sprejmite sklep o prenosu.** To mora biti v pisni obliki in vsebovati:
+    * Vašo firmo in sedež.
+    * Izjavo o prenosu podjetja na vašo ženo.
+    * Vrednost podjetja (premoženje ter pravice in obveznosti) na dan prenosa.  Opis podjetja je mogoče pridobiti iz letne bilanca stanja, vmesne bilance stanja ali ustrezen računovodski izkaz. Te listine ne smejo biti starejše od treh mesecev.
+
+2. **Vložite prijavo za vpis prenosa podjetja** pri ustreznem registrskem organu.
+
+Pomembno je, da se pogovorite z  četom ali notarjem, da vam pomaga pri sestavi sklepa in prijave ter poskrbi, da vse poteka pravilno in zakonito.
+---
+Ni nujno, da ima družba z omejeno odgovornostjo revizijsko komisijo.
+
+Zakon o reviziji določa pogoje za oblikovanje in delovanje revizijskih komisij, ki se lahko uporabljajo tudi pri preverjanju ustanovitvenih postopkov in poslovanja družbe z omejeno odgovornostjo. Vendar pa **zakon ne predpisuje obveznosti vzpostavitve revizijske komisije za vse družbe z omejeno odgovornostjo.**
+
+Ali bo družba z omejeno odgovornostjo imela revizijsko komisijo, je odvisno od njene velikosti, kompleksnosti poslovanja in drugih dejavnikov.
+---
+Revizijska komisija ima številne naloge, ki so vezane na spremljanje finančne poročanja in dejavnosti družbe.
+
+Njihove glavne naloge so:
+
+* **Spremljanje postopka računovodskega poročanja**
+* **Spremljanje učinkovitosti notranje kontrole, notranje revizije (če obstaja) in sistemov za obvladovanje tveganja.**
+* **Spremljanje obvezne revizije letnih in konsolidiranih računovodskih izkazov.**
+* **Pregledovanje in spremljanje neodvisnosti revizorja za letno poročilo družbe, zlasti zagotavljanja dodatnih nerevizijskih storitev.**
+
+Poleg tega:
+
+* **Predlaga kandidata za revizorja letnega poročila družbe nadzornemu svetu.**
+* **Nadzira neoporečnost finančnih informacij, ki jih daje družba.**
+* **Ocena sestavljanja letnega poročila, vključno z oblikovanjem predloga za nadzorni svet.**
+* **Sodeluje pri določitvi pomembnejših področij revidiranja.**
+* **Sodeluje pri pripravi pogodbe med revizorjem in družbo.**
+
+Revizijska komisija deluje v skladu s statutom ali sklepom nadzornega sveta in sodeluje z revizorjem pri opravljanju revizije letnega poročila.
+
+
+Vsi člani revizijske komisije morajo biti strokovnjaki, usposobljeni za računovodstvo ali revizijo.
+---
+Revizor je neodvisna oseba ali institucija, ki opravlja pregled poslovnih knjig in dokumentacije družbe ter se zanima za njeno finančno stanje. Njegove glavne naloge so:
+
+* **Pregled poslovnih knjig in dokumentacije:** Revizor ima pravico dostopa do vseh relevantnih dokumentov, vključno s poslovnimi knjigami, pogodbami, obračunom itd.
+* **Preverjanje premoženja:** Revizor lahko preveri fizična premoženja družbe, kot so blagajno, zaloge, vrednostni papirji in ostalo premoženje.
+* **Obvezna revizija letnih in konsolidiranih računovodskih izkazov:** Revizor opravi obvezno revizijo finančnih izkazov družbe, da potrdi njihovo ustreznost in verotrdnost.
+
+
+Revizorjem se prav tako zaupa tudi naloge kot:
+* **Spremljanje postopka računovodskega poročanja**
+* **Spremljanje učinkovitosti notranje kontrole v družbi**
+* **Pregledovanje in spremljanje neodvisnosti revizorja za letno poročilo družbe**
+* **Predlaganje nadzornemu svetu imenovanja kandidata za revizorja letnega poročila družbe**
+
+
+Sodeluje z Revizijsko komisijo pri določanju pomembnejših področij revidiranja, pri pripravi pogodbe med revizorjem in družbo ter obveščanju o glavnih zadevah v zvezi z revizijo.
+
+Vse to je potrebno za zagotovitev  transparentnosti in odgovornosti poslovanja družbe.
+---
+Stvarni vložki so v družbi premoženjski predmeti ali pravice, katerih gospodarska vrednost je ugotovljiva, ki jih družbenik prispeva v zameno za delnice.
+
+To lahko vključuje:
+
+* **Premičnine:**  npr. strojno opremo, vozila
+* **Nepremičnine:** npr. poslovne prostore, zemljišča
+* **Pravice:** npr. patent, avtorske pravice
+* **Podjetje ali del podjetja**
+
+Pomembno je vedeti, da **dolžnost opraviti storitev ni stvarni vložek**.
+
+V pogodbi o ustanovitvi družbe ali prilogoj k njej morajo biti posebej navedeni predmeti vsakega stvarnega vložka, znesek osnovnega vložka, za katerega se daje stvarni vložek in družbenik, ki ga prispeva.
+
+
+V zakonu so tudi podrobnejše določbe o tem, kako se stvarni vložki uradno evidentirajo in kdaj je potrebno izvesti posebne postopke pred njihovo vključitvijo v osnovni kapital družbe.

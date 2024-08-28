@@ -1,0 +1,108 @@
+Majhna družba je družba, ki ni mikro družba, in ki izpolnjuje **dve** od teh meril:
+
+* Povprečno število delavcev v poslovnem letu ne presega 50.
+* Čisti prihodki od prodaje ne presegajo 8.800.000 eurov.
+* Vrednost aktive ne presega 4.400.000 eurov.
+
+
+Upam, da sem vam pomagal!
+---
+Na podlagi navedenih informacij ni mogoče ugotoviti, kaj je velika družba.
+
+
+Informacije se nanašajo na:
+
+* Kako družbe prenehajo obstajati (različne stopnje in razlogi)
+* Določene vrste gospodarskih poslov, ki jih lahko opravljajo le določene družbene strukture
+* Obveznosti glede jezikovnih standardov za dokumente v družbi
+
+
+Ni pa ničesar o definiciji "velike družbe".
+---
+Na podlagi navedenih podatkov morajo naslednje družbe sestaviti računovodsko poročilo v skladu z mednarodnimi standardi računovodskega poročanja:
+
+* **Družbe iz enajstega odstavka 54. člena tega zakona:**  prvič to počnete za poslovno leto, ki se začne leta 2006.
+* **Banke:** prvič to počnete za poslovno leto, ki se začne leta 2006.
+* **Zavarovalnice:** prvič to počnete za poslovno leto, ki se začne leta 2007.
+
+Pomembno je omeniti, da veljajo določbe tega poglavja tudi za kapitalske družbe in tiste osebne družbe, pri katerih za njihove obveznosti ni neomejeno odgovorna nobena fizična oseba.
+---
+Letno poročilo družb je sestavljeno iz več sestavnih delov.
+
+**Za velike in srednje kapitalske družbe, dvojne družbe in majhne kapitalske družbe, z vrednostnimi papirji katerih se trguje na organiziranem trgu,** letno poročilo poleg ostalih sestavin vsebuje še poslovno poročilo.
+
+**Obstajajo tudi posebne zahteve za konsolidirana letna poročila.**
+
+
+Za natančnejše razumevanje, si prosim ogledati prvi odstavek 57. člena omenjenega zakona.
+---
+Poslovne knjige **ne rabijo** biti vodene po sistemu dvostavnega knjigovodstva, če podjetnik:
+
+* Ustreza merili za majhne družbe in vodi poslovne knjige po sistemu enostavnega knjigovodstva.
+
+
+To je opisano v  2. odstavku 54. člena tega zakona, ki omogoča vodenje poslovnih knjig po sistemu enostavnega knjigovodstva za podjetnike, ki ne presegajo dveh meril izmed treh: povprečno število delavcev (3), letni prihodki (42.000 eurov) in povprečna vrednost aktive (25.000 eurov).
+---
+Ustanovitelji morajo pri ustanovitvi novih družb pregledati en ali več ustanovitvenih revizorjev, ki imajo naslednje naloge:
+
+* **Preveriti skladnost z zakonom:** Revizor mora preveriti, če je postopek ustanovitve v skladu s predpisi.
+* **Pregledati stvarni vložek:**  Če se ustanovitev izvede s stvarnimi vložki (razen v primerih, določeni v 194a členu), mora revizor preveriti vrednost in skladnost stvarnega vložka z zakonom.
+* **Preveriti osnovni kapital:** Revizor mora preveriti, ali je skupna vrednost sredstev prenesene družbe po oddelitvi najmanj enaka višini osnovnega kapitala, povečanega za vsoto rezerv.
+* **Pregledati prevzem delnic:** Revizor mora preveriti, če so bile ob ustanovitvi prevzete delnice za račun člana organa vodenja ali nadzora, ali je član organa vodenja ali nadzora sam prevzel delnice.
+* **Preveriti posebne ugodnosti:** Revizor mora preveriti, če si je član organa vodenja ali nadzora pridobil posebno ugodnost ali plačilo za pripravo ustanovitve.
+
+**Poročilo:** Revizor izda poročilo, ki ga dostavi registrskemu organu in poslovodstvu družbe. Poročilo je javno dostopno na registrskem organu.
+
+
+V primerih, ko nastanejo nove okoliščine, ki občutno vplivajo na vrednost stvarnega vložka, mora ustanovitev po drugih členih zakona še enkrat pregledati ustanovitveni revizorji.
+---
+Ustanovitvenemu revizorju ni potrebno pregledati ustanovitve v teh primerih:
+
+
+* **Če je predmet stvarnega vložka:**
+
+    *  prenosljivi vrednostni papirji ali instrumenti denarnega trga, kakor jih določa zakon, ki ureja trg finančnih instrumentov, in je njihova vrednost določena kot tehtano povprečje enotnega tečaja, doseženega na enem ali več organiziranih trgih, kakor jih določa zakon, ki ureja trg finančnih instrumentov, v najmanj šest mesečnem obdobju, ki se konča en teden pred dnevom sprejema statuta.
+    * že bil vrednoten s strani revizorja največ šest mesecev pred dnevom izročitve predmeta stvarnega vložka in je bilo vrednotenje opravljeno v skladu s splošno priznanimi standardi in načeli vrednotenja.
+
+* **Če izvira poštena vrednost predmeta stvarnega vložka, razen prenosljivih vrednostnih papirjev in instrumentov denarnega trga iz prve alineje tega odstavka, iz posameznega predmeta stvarnega vložka, izkazanega v revidiranem letnem poročilu prejšnjega poslovnega leta.**
+
+
+
+V statu ustanovitve mora biti poleg podatkov iz prvega stavka prvega odstavka 187. člena tega zakona tudi določeno, da ustanovitvenemu revizorju ni treba pregledati ustanovitve.
+---
+Nadzorni svet lahko imenuje eno ali več komisij, na primer:
+
+* **Revizijsko komisijo**
+* **Komisijo za imenovanja**
+* **Komisijo za prejemke**
+
+
+in druge strokovne komisije.
+---
+Poseben revizor opravlja revizijo in o ugotovitvah pripravi **pisno poročilo** (posebno revizorjevo poročilo).
+
+Lahko zahteva pojasnila in dokaze od članov organov vodenja ali nadzora, da zagotovi skrben pregled postopkov. Po končani reviziji mora posebno revizorjevo poročilo **podpisati in nemudoma predložiti poslovodstvu in sodišču.** Poslovodstvo nato poročilo predstavi nadzornemu svetu in ga uvrsti na dnevni red naslednje skupščine.
+
+
+V bistvu, posebnega revizorja opisujejo te naloge:
+
+* **Izvedba revizije:** Preveri poslovne postopke in dokumente.
+* **Priprava poročila:**  Zapiše ugotovitve revizije v pisno poročilo.
+* **Komunikacija:** Predloži poročilo poslovodstvu, sodišču, nadzornemu svetu in skupščini.
+---
+Da, v podatkih je navedeno, kaj mora vsebovati statut komanditne delniške družbe.
+
+Statut mora med drugim vsebovati:
+
+* **Informacije o ustanoviteljih:** ime, priimek in prebivališče ali firmo in sedež vsakega ustanovitelja
+* **Informacije o družbi:** firmo in sedež družbe, dejavnosti družbe
+* **Osnovni kapital družbe:** znesek osnovnega kapitala
+* **Delnice:** če ima družba delnice z nominalnim zneskom: nominalni znesek delnic in število delnic vsakega nominalnega zneska, če je več razredov delnic, tudi razred delnic ter nominalne zneske in število delnic, ki se izdajo v posameznem razredu. Če ima družba kosovne delnice: število delnic, če je več razredov delnic, tudi razred delnic in število delnic, ki se izdajo v posameznem razredu.
+* **Sistem upravljanja:** enotirni ali dvotirni sistem
+* **Organi družbe:** število članov organov vodenja ali nadzora, mandatna doba članov organov vodenja ali nadzora
+* **Objava pomembnih informacij:** obliko in način objav, pomembnih za družbo ali delničarje
+* **Čas trajanja družbe** : če je ustanovljena za določen čas
+* **Način prenehanja družbe**
+
+
+Statuta se mora sestaviti v obliki notarskega zapisa.

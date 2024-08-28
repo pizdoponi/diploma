@@ -1,0 +1,199 @@
+Velike družbe so obvezane voditi poslovne knjige v skladu z Zakonom o računovodski evidenci in reviziji. To pomeni, da morajo:
+
+* **Voditi temeljno knjigovodstvo:** To vključuje dnevnik, bilanco in izkaz o dobičku in izgubah.
+* **Uporabljati metodo po ustreznih računskih načelih:** V Sloveniji se v bistvu uporablja sistem  **dohodkov in izdatkov**.
+* **Evidentirati vse posle, ki so pomembni za določanje finančnega stanja:** To vključuje transakcije s dobavitelji, kupci, zaposlenimi, davkom itd.
+* **Voditi evidenco o osnovnih podatkih o podjetju:** To vključuje ime in sedež podjetja, ID številko, vrste dejavnosti itd.
+* **Obvestiti davčne organe o spremembah v poslovnem procesu:** Na primer, pri ustanovitvi ali likvidaciji podjetja, spremembi sedeža itd.
+
+Poleg tega morajo velike družbe svoja letna računovodska stanje posredovati **neodvisnemu revizorju** za pregled in mnenje.
+
+**Pomembno je poudariti:** Ti so samo osnovni pogoji. Za natančnejše informacije se obrnite na davčno svetovalca ali računovodjo.
+---
+To je odvisno od posamezne države in vrste podjetja.
+
+V **Sloveniji** mora družba **letno poročilo oddati v Register pristojnega organa (AJPES)** do **31. marca leta, ki sledi poslovnemu letu**. Poročilo je namenjeno javnosti in obsega podrobne informacije o finančnem stanju družbe ter njenem poslovanju.
+
+Za natančnejši odgovor na vaše vprašanje bi moral vedeti:
+
+* **Kateri državi pripada podjetje?**
+* **Kakšna je pravna forma podjetja?** (npr. d.o.o., akciovarna družba)
+
+
+
+Upam, da vam ta informacija pomaga!
+---
+V Sloveniji so obvezne revizije za **družbe, ki ustreza vsaj enemu izmed spodnjih pogojev**:
+
+* **Obseg blaga:**  Družba ima bilancira skupno v višini nad 300.000 EUR na koncu poslovnega leta.
+* **Število zaposlenih:** Družba ima povprečno nad 10 zaposlenimi v poslovnem letu.
+* **Prihodki:**  Družba ima prihodke iz poslovanja nad 600.000 EUR na koncu poslovnega leta.
+
+**Izjeme:**
+
+
+* Neobvezne so revizije za družbe, ki se ukvarjajo z neprofitno dejavnostjo.
+* Neobvezne so revizije za mikropodjetja.
+
+
+Za natančnejše informacije se posvetujte pri odgovornih organih ali računovoditelji.
+
+**POMEMBNO:**  Sem samo pravni pomočnik in ne zamenjava strokovnega pravnika.
+---
+Za namene letnega poročanja mora družba, ki se razvršča med majhne družbe, pripraviti naslednje:
+
+**Obvezna poročila:**
+
+* **Letni račun:** Vsebina letnega računa je določena v Obligacijskem zakonu.  Vključuje bilanco, izkaz o dobičku in izgubi ter odlokove.
+    * **Bilanca:** Podaja stanje družbe na koncu poslovne leta v obliki aktiv, pasiv in lastniški kapital.
+    * **Izkaz o dobičku in izgubi:** Prikazuje dohodek in stroške družbe v poslovnem letu, kar vodi do neto dobička ali izgube.
+    * **Odlokove:** Prikažejo vse pomembne odloke uprave in organa nadzora, ki so bili sprejeti v poslovnem letu.
+
+**Neobvezna poročila:**
+
+Poleg obveznih poročil lahko družba pripravi tudi neobvezna poročila, kot so:
+
+* **Izvedbeni poročilo:** Opisuje dejavnosti družbe v poslovnem letu in njene uspehe ter izzive.
+* **Poročilo o etiki in odgovornosti:** Prikazuje, kako družba spoštuje etične standarde in prevzema odgovornost za svoje delovanje.
+
+**Rok za predajo letnega poročanja:**
+
+Majhne družbe imajo rok **devet mesecev** po koncu poslovnega leta za predajo letnega poročanja.
+
+
+**Pomembne informacije:**
+
+* Pravni okvir za letno poročanje majhnih družb je določeno v Obligacijskem zakonu in Zakonu o davčni obveznosti.
+* Za podrobnejše informacije se obrnite na pooblaščenega računovo-revizijskega strokovnjaka ali finančnega svetovalca.
+
+ **Priporočilo:**
+
+Ne glede na to, katero vrsto poročila pripravljate, ga je pomembno sestaviti jasno, pregledno in natančno.
+
+
+Upoštevajte, da sem le pravni pomočnik z omejenimi možnostmi. Za  pravne nasvete se vedno obrnete na licenciranega odvetnika.
+---
+Samostojni podjetnik mora voditi poslovne knjige skrbno in natančno, da izpolni zakonodajne obveznosti ter ima jasno sliko o finančnem stanju svojega podjetja.
+
+Tukaj je kratek pregled, kaj vse vključuje vodjenje poslovnih knjig:
+
+**1. Izbira metode knjigevođenja:**
+
+* **Digitalna programska oprema:** Obstaja veliko programov za vodjenje poslovnih knjig, ki so prilagodljivi in intuitivni.
+* **Knjige v papirnati obliki:** Za manjše podjetja lahko ostanejo primerne tradicionalne knjige. Pomembno je, da se uporablja standardizirana shema.
+
+**2. Dokumentacija poslovnih transakcij:**
+
+Samostojni podjetnik mora dokumentirati vse finančne transakcije, vključno s:
+
+* **Dobavami in plačili:** Izstavljajo se računi za dobavo blaga ali storitev ter obračunani plačilni nalogi.
+* **Uporabo sredstev:**  Dokumentirat je treba izdatke za poslovne potrebe, kot so na primer zakup najemnine, stroški za transport, materiala itd.
+* **Prihodke:** Vsak prihodki mora biti dokumentiran z ustreznim računom ali potrdilom o plačilu.
+
+**3. Skladno beleženje vseh transakcij:**
+
+Vse transakcije se morajo beležiti v knjigevoditeljstvo po načelu "dualne knjigovodskega sistema", kar pomeni, da se vsaka transakcija beleži na dva računa: eden za debet (prihodki) in eden za kredit (izdatke).
+
+**4. Redno obračunavanje:**
+
+Samostojni podjetnik mora redno obračunavati poslovne knjige, saj je to pomembno za spremljanje finančnega stanja in pripravo davčne napovedi. Obračunavanje se lahko izvede mesečno, trimesečno ali letno, odvisno od potrebe in velikosti podjetja.
+
+**5. Obdobna poročila:**
+
+Samostojni podjetnik mora sestaviti občasna poročila o finančnem stanju svojega podjetja, kot so bilanca, dobiček in izguba ter pregled gibanja sredstev. Ta poročila uporabljajo za spremljanje poslovnih rezultatov, odločanje o investicijah in komunikacijo s partnerji.
+
+**Pomembno:**
+
+* Vsi dokumenti morajo biti natančni, pravočasni in shranjeni v dobrem stanju.
+* Samostojni podjetnik se mora zavedati obveznosti glede davkov in ustrezno obračunavati davke.
+* Priporoča se posvetovanje s strokovnjakom za računovodstvo, če imate kakršnekoli dvome ali težave pri vodjenju poslovnih knjig.
+
+
+Upam, da vam ta informacija pomaga!
+---
+Samostojni podjetnik, ki prenaša svojo dejavnost na drugo fizično osebo, mora izvesti naslednje korake:
+
+**1. Sporazum o prevzemu:**
+
+*  Med samostojnim podjetnikom in prevzemajočo osebo se sklene **sporazum o prevzemu**, v katerem jasno določijo vse pomembne podrobnosti prenosa, kot so:
+
+    *   Datum prevzema dejavnosti
+    *   Cena prevzemanja
+    *   Prevoz lastnine (opreme, blaga, dokumentacije)
+    *   Odgovornost za obstoječe obveznosti in pogodbe
+    *   Prenos licence ali drugih priznanj
+
+**2. Obvestilo davčni upravi:**
+
+* Samostojni podjetnik mora **obvestiti Davčno upravo o prenosu dejavnosti**. To je treba storiti z ustreznim obrazcem, ki ga najde na spletni strani davčne uprave.
+* V obvestilu je potrebno navesti datum prevzema in ime in priimek prevzemajoče osebe.
+
+**3. Obvestilo pristojne ustanove:**
+
+* Če je dejavnost predmet nadzora (npr. zdravstvo, varstvo okolja), je potrebno obvestiti tudi **pristojno institucijo**.
+
+**4. Sprememba podatkov v poslovnem registru:**
+
+* Samostojni podjetnik mora po prenosu dejavnosti **spremeniti podatke v poslovnem registru**. To pomeni, da se bo ime in priimek prevzemajoče osebe zamenjalo v evidenci.
+
+
+**Pomembno:**  Prepričajte se, da upoštevate vse zakonodajne zahteve in smernice glede prenosa dejavnosti samostojnega podjetnika. Če imate kakšna vprašanja ali dvomite o postopku, se obrnite na **strokovnjaka** za poslovno pravo.
+---
+V Sloveniji so dolžni imeti revizijsko komisijo naslednji pravni subjekti:
+
+* **Delniška društva:** Vsako delniško društvo, ki ima kapital nad 20.000 EUR, mora imeti revizijsko komisijo.
+* **Društva z omejeno odgovornostjo (d.o.o.):** Pravna področja se razlikujejo glede na velikost in tip poslovanja d.o.o., zato je priporočljivo preveriti konkretne zahteve v Zakonu o društvih z omejeno odgovornostjo.
+* **Združenja:** Nekatere vrste združenj, kot so gospodarska združenja, lahko potrebujejo revizijsko komisijo, odvisno od njihove velikosti in posebnosti.
+
+**Pomembne opombe:**
+
+* V primeru, da ni izrecno določenih zahtev za ustanovitev revizijske komisije v posameznem zakonu, je veljaven Zakon o družbah (ZD).
+* Revizijska komisija nadzoruje finančno poslovanje podjetja in zagotavlja skladnost s predpisi.
+
+
+Za popolno in natančno informacij se obrnite na ustrezne davčne organe ali pravnika.
+---
+Revizijska komisija ima številne pomembne pristojnosti in naloge, ki se nanašajo na zagotavljanje preglednosti, odgovornosti in poštenega poslovanja v organizaciji.
+
+**Njene glavne pristojnosti so:**
+
+* **Izvajanje revizij:** Revizijska komisija opravlja notranje revizije finančnih zapiskov, poslovnih procesov in drugih pomembnih področij organizacije. Namen revizij je ugotavljanje učinkovitosti operacij, skladnosti z zakonom in politikami ter identifikacija potencialnih tveganj in pomanjkljivosti.
+* **Preverjanje skladnosti:** Komisija preveri, ali se organizacija drži veljavnih predpisov, regulativnih zahtev, notranjih politike in kodeksa etičnega ravnanja.
+* **Vloga v nadzoru tveganj:** Revizijska komisija prispeva k identifikaciji in oceni tveganj, ki jih organizacija izpostavlja. Predlaga ukrepe za zmanjšanje teh tveganj in zagotavljanje učinkovitega upravljanja tveganj.
+* **Izdajanje poročil:** Komisija pripravlja poročila o svojih revizijah in drugih dejavnostih, ki jih predstavi upravnemu odboru ali najvišjem vodstvu organizacije. Poročila vsebujejo ugotovitve, priporočila za izboljšave in ocene varnosti finančnih informacij.
+* **Sodelovanje z drugimi organom:** Revizijska komisija sodeluje z notranjim auditom, izvedbenim nadzorom in drugimi relevantnimi organi organizacije.
+
+**V splošnem je pomembno poudariti, da revizijska komisija deluje neodvisno od uprave in ostalih organov organizacije.** Njena glavna naloga je zagotavljati objektivnost in integriteto v delovanju organizacije ter poskrbeti za ustrezne kontrole in preprečiti zlorabo.
+
+
+
+Če imate še kakšno vprašanje, se lahko sprašujem!
+---
+Revizor v gospodarski družbi ima pomembno vlogo pri zagotavljanju  **transparentnosti, poštenega poslovanja in ustrezne finančne raporte**.
+
+Njegove glavne naloge so:
+
+* **Pregled računovodske evidence:** Revizor pregleda obračunsko dokumentacijo, banke izpise in druge dokumente za ugotavljanje, ali so poslovanja dokumentirana pravilno in v skladu s predpisi.
+* **Izvajanje revizije finančnih izkazov:** Revizor preveri celotnost finančnih izkazov (bilance, izkaz o dobičku in izgubi, gibanja denarja), da potrdi, ali so ustrezno pripravljeni in v skladu z veljavnimi računovodskimi standardi.
+* **Ocenjevanje notranjih kontrol:** Revizor preveri učinkovitost sistemov notranjih kontrol v družbi, da ugotovi, kako dobro se varujejo aktivnosti, zlasti pred nepooblaščenim dostopom in pranjem denarja.
+* **Sodelovanje z upravnim odborom:** Revizor redno poroča upravnemu odboru o svojih ugotovitvah in priporočilih za izboljšanje poslovanja.
+
+**Obstajajo dva glavna tipa revizorjev:**
+
+* **Notranji revizor:** Zaposlen v družbi, ki opravlja revizije znotraj organizacije.
+* **Zunanji revizor:** Samostojna oseba ali podjetje, ki opravlja neodvisne revizije za družbo. Zunanji revizor je običajno izbran od strane akcionarov in mora biti nepristranski do upravne ekipe.
+
+Revizorski nadzor je pomemben element v dobrem upravljanju gospodarske družbe, saj prispeva k zaupanju v poslovanje in varovanju interesov vseh deležnikov.
+---
+Družba lahko osnovni kapital zagotovi ali poveča s stvarnimi vložki **v času ustanovitve družbe ali v vsakem času kasneje**, če je to določeno v statut,  glede na **podrobnosti, ki jih določi posamezni zakon**.
+
+**Včasih se lahko stvarni vložki uporabljajo tudi za:**
+
+* plačilo delnic
+* urejanje izgube družbe
+* povečanje osnovnega kapitala.
+
+
+Za natančno in pravnomočno informacijo o tem, kdaj in kako je mogoče zagotoviti ali povečati osnovni kapital s stvarnimi vložki, **se obrnite na pravnika**.
+
+**Pomembno:** To ni pravni nasvet.

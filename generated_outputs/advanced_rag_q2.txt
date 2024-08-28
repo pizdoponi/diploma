@@ -1,0 +1,86 @@
+Majhna družba je družba, ki ni mikro družba in izpolnjuje dve od teh treh meril:
+
+* Povprečno število delavcev v poslovnem letu ne presega 50
+* Čisti prihodki od prodaje ne presegajo 8.800.000 eurov
+* Vrednost aktive ne presega 4.400.000 eurov
+---
+Zakon določa razvrščanje družb v mikro, majhne, srednje in velike družbe glede na:
+
+* povprečno število delavcev v poslovnem letu,
+* čiste prihodke od prodaje, in
+* vrednost aktive.
+
+
+Informacije o tem, katere merile se uporabljajo za razvrščanje družb v velike družbe, pa niso navedene v vašem besedilu.
+---
+V skladu z navedenimi podatki morajo naslednje družbe sestaviti računovodsko poročilo v skladu z mednarodnimi standardi računovodskega poročanja:
+
+* **Družbe iz prejšnjega odstavka 60. člena tega zakona**, poleg posameznih tipov, kot so banke in zavarovalnice, ki jih je navedeno v tem samem odstavku.
+* **Banke**
+* **Zavarovalnice**
+
+
+Druge družbe lahko sestavljajo poročila v skladu z mednarodnimi standardi, če to odloči skupščina družbe, vendar najmanj za pet let.
+
+Pomembno je omeniti, da so banke in zavarovalnice prvič morale sestaviti računovodsko poročilo v skladu z mednarodnimi standardi v letu 2006 oziroma 2007.
+---
+Letno poročilo družb iz prvega odstavka 57. člena tega zakona je sestavljeno iz:
+
+* bilance stanja,
+* izkaza poslovnega izida,
+* izkaza denarnih tokov,
+* izkaza gibanja kapitala,
+* priloge s pojasnili k izkazom, in
+* poslovnega poročila iz 70. člena tega zakona.
+---
+Poslovne knjige se ne rabijo voditi po sistemu dvostavnega knjigovodstva, če podjetnik izpolnjuje vse tri pogoje iz 4. odstavka:
+
+* **Pogoj 1:** Podjetnik mora izpolnjevati pogoje za zavezance za davek od dohodka iz dejavnosti.
+* **Pogoj 2:** Zakon, ki ureja dohodnino, mora zahtevati upoštevanje normiranih odhodkov pri ugotavljanju davčne osnove.
+
+
+To velja tudi za podjetnike, ki v prvem poslovnem letu ne zaposlujejo delavcev.
+---
+Revizor ima več pomembnih nalog pri ustanovitvi družbe:
+
+* **Pregled ustanoviteljev:**  Revizor pregleda, ali so vsi ustanovitelji v skladu z zakonom. To vključuje preverjanje, da niso bili delnici prevzete za račun člena organa vodenja ali nadzora, da si ni pridobil posebne ugodnosti ali plačila za pripravo ustanovitve in podobno.
+* **Pregled stvarnih vložkov:** Če se ustanovitev izvede s stvarnimi vložki (razen določenih primerov), mora revizor preveriti, da je vrednost stvarnega vložka v času njegovega prispevanja še vedno ustrezna.  Revizor mora prav tako preveriti likvidnost trga za vrednostne papirje ali instrumente denarnega trga v primeru, da se določene okoliščine spremenijo in občutno vplivajo na vrednost stvarnega vložka.
+* **Pregled skupne vrednosti sredstev:** Revizor preveri, da je skupna vrednost sredstev prenosne družbe, zmanjšanih za obveznosti, po oddelitvi najmanj enaka višini osnovnega kapitala, povečanega za vsoto rezerv.
+* **Izdaja poročila:** Revizor izda poročilo o svojem pregledu in ga dostavi registrskemu organu ter poslovodstvu družbe. Poročilo je javno dostopno na registrskem organu.
+
+Revizorje za ustanovitve lahko imenujejo ustanovitelji ali sodišče, če se ne opravi ustanovitvena revizija.
+---
+V primerih, ko je statut določil, da ustanovitvenemu revizorju ni treba pregledati ustanovitve.
+
+
+To je določeno v prvem odstavku člena (3).
+---
+Nadzorni svet lahko imenuje eno ali več komisij, na primer:
+
+* **revizijsko komisijo**
+* **komisijo za imenovanja**
+* **komisijo za prejemke**
+
+
+Ta komisije pripravljajo predloge sklepov nadzornega sveta, skrbijo za njihovo uresničitev in opravljajo druge strokovne naloge.
+---
+Poseben revizor ima naslednje naloge:
+
+* Preveri ustanovitvene postopke ter vodenje posameznih poslov družbe, vključno s posli povečanja ali zmanjšanja osnovnega kapitala v zadnjih petih letih.
+* Zahteva od članov organov vodenja ali nadzora vsa pojasnila in dokazila, potrebna za skrben pregled postopkov.
+
+V posebnem revizorjevem poročilu mora poseben revizor zapisat:
+
+* Ugotovitve o preverjanju ustanovitvenih postopkov ter vodenja posameznih poslov družbe.
+* Dejstva, katerih objava lahko družbi ali povezani družbi povzroči večjo škodo, če so pomembna, da bi lahko skupščina ustrezno ovrednotila postopke ali posle, ki se preverjajo.
+
+
+Poročilo podpiše in ga nemudoma predloži poslovodstvu in sodišču.
+---
+Naslednji informacije morajo biti navedene v statutu komanditne delniške družbe:
+
+* **Osnovni kapital družbe**
+* **Število delnic**  in če obstajajo razredi delnic, tudi njihov nominalni znesek in kateri razred prevzamejo komanditni delničarji.
+
+
+Statutu komanditne delniške družbe se prav tako uporabljajo določbe o statutu delniške družbe, kot so opisane v točki (3) določb.

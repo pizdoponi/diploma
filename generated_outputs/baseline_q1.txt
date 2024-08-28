@@ -1,0 +1,185 @@
+Za zagotovitev točnosti in skladnosti poslovnih knjig je priporočljivo, da se stanje posameznih aktivnih in pasivnih postavk preveri **redno in sistematično**.
+
+Obstaja več dejavnikov, ki vplivajo na pogostost preverjanja:
+
+* **Velikost in kompleksnost podjetja:** Večji in bolj kompleksi podjetje zahtevajo pogostost preverjanja.
+* **Narava poslovanja:** Podjetja s hitro spreminjajočo se situacijo ali visokim nivojem transakcij bodo morda potrebovala pogostejša preverjanja.
+* **Zahteve regulativnih organov:** Pravna in davčna zakonodaja pogosto določa minimalne zahteve glede frekvence pregledov poslovnih knjig.
+
+V splošnem velja, da se stanje posameznih aktivnih in pasivnih postavk preverja:
+
+* **Vsak mesec:** V primeru majhnih podjetij ali podjetjih s stabilno situacijo.
+* **Vsaj vsako trimesečno:** Za večja podjetja ali podjetja s spreminjajočo se situacijo.
+* **Pred koncem vsakega računskega obdobja:** Da se zagotovi pravilna pripravljenost bilančnih izkazov in priljubljenih izkazov o dobičku in izgubah.
+
+
+Poleg rednih pregledov je pomembno, da se opravijo tudi **nedoločene pregledi**, kokoli v podjetju nastane sum na napako ali zlorabo.
+---
+Mikro družba je nova vrsta poslovne strukture, ki združuje značilnosti **osebnega podjetja in družbe z omejeno odgovornostjo**.
+
+**Najpomembnejše lastnosti mikro družbe so:**
+
+* **Enostavno ustvarjanje:** Postopek registracije je bistveno lažji in hitrejši kot pri drugih vrstah družb.
+* **Manj papirniških obveznosti:** Mikro družba ima manj administrativnih obveznosti, kar pomeni manj časa in denarja, porabljenih za knjigovodstvo in poročanje.
+* **Omejena odgovornost:** Lastniki mikro družbe niso osebno odgovorni za dolge mikro družbe.
+
+**Kje je idealna mikro družba?**
+
+Mikro družba se primerja pri manjši podjetniški dejavnosti, kjer ni veliko zaposlenih in obroki niso visoki.
+
+**Pomembno je vedeti:**
+
+* Mikro družbe imajo omejene možnosti dostopa do financiranja.
+* Ne vsi davki so enako ugodni kot pri osebnem podjetju.
+
+
+Povej mi, če želiš več podrobnosti o mikro družbah ali imaš kakšno drugo vprašanje!
+---
+To je odlično vprašanje!
+
+Zakon o varstvu osebnih podatkov (ZVOP) ne uporablja izraza "velika družba" v strogem smislu. Namesto tega se temelji na število zaposlenih in letnem obratu.
+
+V praksi pa so zavarovalnice pogosto uvrščene med velike organizacije zaradi svoje velikosti, zmogljivosti in vplivne pozicije na trgu. Veliko jih ima veliko zaposlenih in visok letni obrat, kar jih podpira kot "velike" po subjektivnem mnenju.
+
+Vendar pa je pomembno poudariti, da **definicija "velikega" ni univerzalna** in se lahko razlikuje glede na kontekst in ciljno populacijo.
+---
+Revizor mora revizijski komisiji poročati o **vseh pomembnih ugotovitvah**, ki jih je našel med revizijo.
+
+To obsega:
+
+* **Povezava z nalogami revizije:**  Revizor mora jasno opisati, katera področja je preveril in kako so bila povezana z določeni komisijskim navodili ali cilji revize.
+* **Ugotovitve o skladnosti:** Revizor naj poroča, ali so bile finančne operacije in poslovanja v skladu s predpisi, politikami in načeli organizacije. To vključuje preverjanje pravilne uporabe sredstev, izvedbe notranje kontrole, varstva podatkov in drugih pomembnih vidikov.
+* **Priporočila za izboljšave:** Revizor mora predložiti jasna in konkretna priporočila za odpravo nepravilnosti ali izboljšavo poslovanja.
+* **Obseg odkritja rizika:** Poročilo mora obravnavati  identifikacijo in oceno potencialnih tveganj, ki bi lahko ogrozili organizacijo, ter predlagana ukrepanja za zmanjšanje teh tveganj.
+
+Poleg tega revizor v poročilu pogosto navaja:
+
+* **Mehanizme revizije:** Opisuje metodologijo in pristop revizije, ki je bil uporabljen.
+* **Zunanji dejavniki:** Navedujo se pomembni zunanji dejavniki, ki so lahko vplivali na ugotovitve revize (npr. spremembe zakonodaje).
+
+Poročilo mora biti jasno, natančno in pregledno napisano, da bi ga lahko razumela tudi oseba brez strokovnega znanja finančne revizije.
+
+
+**Pomembno:** Ta odgovor je informativne narave in ne zamenjuje strokovnega pravnega nasveta.
+---
+Vrednotenje sredstev in obveznosti pri združitvi ali delitvi je ključnega pomena za pravilno finančno poročanje in zagotovitev poštenega prenosa lastništva.
+
+**Tukaj so nekateri dejavniki, na katere je treba biti pozoren:**
+
+**1. Znatna odstopanja od nominalne vrednosti:**
+
+* Sredstva in obveznosti morajo biti ovrednotena v skladu z veljavnimi accounting standardi (npr. IFRS ali US GAAP).
+* Pomembno je ugotoviti, ali obstajajo značilna odstopanja med nominalno in tržno vrednostjo sredstev in obveznosti.
+
+**2. Neprevidene obveznosti:**
+
+* Pri združitvi ali delitvi je treba preveriti morebitne skritih obveznosti, ki jih prevzemna družba ne pozna.
+* To vključuje pogodbe, jamstva, garancije in druge obveznosti, ki se lahko pojavijo v prihodnosti.
+
+**3. Nepravilnosti in negotovosti:**
+
+* Morate preveriti, ali obstajajo znaki finančnih manipulativnih dejanj ali drugih nepravilnosti.
+* Upoštevajte tudi morebitne negotovosti glede prihodnjega dobička in plačljivih obveznosti.
+
+**4. Specifični dejavniki poslovanja:**
+
+* Vrednotenje sredstev in obveznosti mora upoštevati specifične dejavnike poslovanja prevzemne družbe, kot so industrija, tržni trendi in konkurentni pritisk.
+*
+
+**5. Odvisnost od neodvisnih strokovnjakov:**
+
+* Za zagotovitev pravilnosti in objektivnosti vrednotenja je pomembno, da se za pomoč obrnete na neodvisne strokovnjake, kot so revizorji, davčni svetovalci in finančni analitiki.
+
+
+Spodbudim vas, da za konkretno situacijo poiščete pravno in finančno svetovanje s strani strokovnjakov, ki bodo lahko zagotovili ustrezne informacije in nasvete glede na specifične okoliščine.
+---
+Ko podjetnik umre,  se z njimi ustrezno posregajo pravne posledice za poslovni entitet. Včasih je to enostavno, včasih pa zelo zapleteno, odvisno od vrste podjetja in njegovega pravilnega določanja vpisanih podatkov.
+
+**Nekatera dejstva, ki veljajo v večini primerov:**
+
+* **Podjetje ne preneha ob smrti lastnika.**  Podjetje kot pravna oseba  ne umre skupaj z lastnikom. Po navadi nadaljuje svojo poslovno dejavnost, razen če se odloči drugače zakonodaja ali soglašajo vse deležniki podjetja.
+* **Lastništvo se prenese na dediče.** Podjetje lahko postane del dediščine in se deli med dediče.
+* **Možnost prodaje podjetja.**  Dedici lahko odločijo, da podjetje prodajo tretjemu subjektu.
+
+**Vrste podjetij in njihove posebnosti:**
+
+* **Samostojna podjetja:** V tem primeru lastništvo preide na dediče, ki morajo obvestiti pristojne organe o spremembi v lastništvu.
+* **Družbe z omejeno odgovornosti (d.o.o.):** Lastniki so delničarji in njihovo delež v družbi prenesejo na dediče. Vsebujejo določbe za takšne situacije, ki se imenujejo "pravila o prevzemu posla".
+* **Akcijsko društvo (a.d.):**  V tem primeru je postopek podoben kot pri d.o.o., vendar so deleži v podjetju deljen na akcije, ki jih dediči lahko prejmejo in prodajajo.
+
+**Pomembno:**
+
+* Pravne posledice smrti lastnika se lahko razlikujejo glede na posamezno situacijo in veljavno zakonodajo.
+* Pred smrtjo je pomembno ustvariti pravilno dokumentacijo, ki jasno določa poslovanje z dediščino in podjetjem.
+
+
+**Priporočilo:** V primeru smrti lastnika podjetja se morate obrnite na pravni svetovalec, ki vam bo pomagal pri vsem postopku in izognil morebitnim težavam.
+---
+Firmo podjetnika lahko sestavlja več elementov, odvisno od njegove narave in velikosti.
+
+**Osnovni elementi:**
+
+* **Podjetniško ime:** Uradno ime podjetja, ki ga je registriralo.
+* **Zakonitna oblika:** Lahko gre za samostojnega podjetnika, družbo z omejeno odgovornostjo (doo), akcionarsko društvo (ad) itd.
+
+* **Sedež podjetja:** Mesta, kjer se nahaja registrirano poslovanje podjetja.
+* **Podjetniška dejavnost:** Vsebine dela in storitev, ki jih ponuja podjetje.
+* **Kapital podjetja:**  Vsota vseh vložkov, ki so bili namenjeni ustanovitvi in vzdrževanju podjetja.
+
+**Drugi možni elementi:**
+
+* **Organi podjetja:** Direktorji, članovia uprave, nadzorniki itd., odvisno od oblike podjetja.
+* **Pravne dokumente:**  Zakoni o poslovanju, pogodbe, bilanca, računi in drugi dokumenti, potrebni za formalno delovanje podjetja.
+* **Materialni akti:** Poslovno opremo, stavbe, vozila itd., ki jih uporablja podjetje.
+
+**POMEMBNO**:
+
+Vsak element ima svojo vlogo pri ustanovitvi in delu podjetja. Pravne zahteve in podrobnosti se razlikujejo glede na obliko podjetja in dejavnost, zato je najbolje posvetovalno se obrniti na strokovnjaka za pravno svetovanje.
+
+
+
+Če imate še kakšno vprašanje, ne mejte ustaviti!
+---
+Prokura **preneha s smrtjo** podjetnika.
+
+Izguba poslovne sposobnosti podjetnika praviloma ne povzroči prenehanja prokure, razen če je v pogodbi o prokuri posebej določeno drugače.  V takšnih primerih se lahko poskrbi za skrbništvo ali drug način upravljanja podjetja, ki zagotavlja nadaljnjo učinkovitost poslovanja.
+
+**Pomembno je poudariti:** To ni pravni nasvet. Za konkretne informacije in nasvete o vaši situaciji se obrnite na pooblaščenega pravnika.
+---
+Podjetnik, ki uporablja sistem enostavnega knjigovodstva, poslovne knjige **vodi do konca leta poslovanja**.
+
+To pomeni, da jih mora voditi vse od začetka poslovnega leta do zadnjega dne v tem letu. Posle tega je potrebno sestaviti letni račun in ga prijaviti na davčno upravo.
+---
+Kot pravni pomočnik nisem pooblaščen za dajanje pravnih nasvetov.
+
+Za natančno in zanesljivo odgovor na vaše vprašanje o premoženjskih predmetih, ki se ne štejejo kot stvarni vložki ali prevzem, vam priporočam, da se obrnete na licenciranega pravnika.
+
+Vendar pa lahko ponovim splošne informacije:
+
+Stvarni vložek in stvarni prevzem so običajno povezani s prenosom lastništva fizičnih dobrin (stvari). To bi lahko vključevalo zemljišča, hiše, vozila, stroje itd.
+
+V nasprotju z njimi pa se pogosto **ne štejejo** kot stvarni vložki ali prevzem:
+
+* **Duševna lastnina:** Avtorske pravice, blagovne znamke, patente
+* **Finančni instrumenti:** Delnice, obligacije, gotovina
+* **Pravne obveznosti:** Dolanec za plačilo
+* **Storitve:** Uporabnik nakupa storitev, ne pa stvari.
+
+**Pomenite:**
+
+To so le splošne informacije in ni zagotovo, da se ta pravila uporabljajo v vsakem primeru.
+
+Za natančen odgovor na vaše vprašanje je nujno posvetovanje s pravnikom.
+---
+Pravni pomočnik sem, vendar nisem odvetnik in ne morem dajati pravnih nasvetov. Za točno in relevantno informacijo o vašem primeru se posvetujte pri pooblaščenem pravniku.
+
+To rečeno, lahko ponudim splošno informacije.
+
+V Sloveniji za ustanovitev s stvarnimi vložki **ni vedno potrebno mnenje revizorja**. To je odvisno od **vrste družbe** in **zneska vstavljenih stvarnih vložkov**.
+
+Na primer, za ustanovitev preproste družbe (d.o.o.)  mnenje revizorja ni potrebno, ne glede na znesek stvarnih vložkov. Za ustanovitev družbe z omejeno odgovornostjo (d.d.) pa je mnenje revizorja pogosto potrebno, če vstopni kapital znaša nad določenim zneskom.
+
+Za natančnejšo informacije vam svetujem, da se obrnete na **Gospodarsko zbornico Slovenije** ali **pravnico**.
+
+
+Upam, da vam je to pomagalo!

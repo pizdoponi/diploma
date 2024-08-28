@@ -1,0 +1,163 @@
+Za namene letnega poročanja poročate kot velika družba, če ste ena izmed naslednjih:
+
+* **banka**
+* **zavarovalnica**
+* **borza vrednostnih papirjev**
+* **družba, ki po 56. členu tega zakona mora pripraviti konsolidirano letno poročilo.**
+
+
+Vendar pazite! To se nanaša samo na letno poročanje.  Obstajajo še različne klasifikacije družb glede na število zaposlenih, čisti prihodki in vrednost aktiv.
+---
+Kot majhna kapitalska družba z vrednostnimi papirji, ki se ne trguje na organiziranem trgu, morate predložiti letno poročilo AJPES v treh mesecih po koncu poslovnega leta.
+
+Letno poročilo mora vsebovati:
+
+* Bilans stanja
+* Izkaz poslovnega izida
+* Prilogo s pojasnili k izkazom
+
+V prilogi k izkazom ni treba razkriti ali pojasniti podatkov iz 7. do 22. točke prvega odstavka tega člena. Podatke iz 9. in 10. točke prvega odstavka tega člena pa morate prikazati skupno za vse postavke obveznosti.
+
+Poleg tega morate predložiti tudi predlog razporeditve dobička ali obravnavanje izgube, če to ni razvidno iz letnega poročila.
+---
+Kot majhna družba, kateri se vrednostni papirji ne trgujejo na organiziranem trgu, **niste dolžni**  računovodske izkaze revidirati.
+
+To ureja slovenski računovodski standard, ki posebej določa način vodenja poslovnih knjig in sestavljanja računovodskih izkazov za majhne družbe.
+
+
+Vendar pa je smiselno razmisliti o reviziji, saj lahko  to zvišuje zaupanje stakeholderjev in vam pomaga pri identifikaciji možnih napak v vaših finančnih dokumentih.
+---
+Za pripravo letnega poročanja za majhno družbo je potrebno upoštevati naslednje:
+
+**1. Cilj poročanja:**
+
+* **Komu** je namenjeno poročilo? (zaposleni, lastniki, partnerji, banki,...)
+* **Kakšen upshot** želite doseči s poročilom? (prikaz uspehov, pregledovanje težav, motiviranje za prihodnost, ...)
+
+**2. Vsebina:**
+
+* **Pregled poslovanja:** Osnovni podatki o podjetju, kot so ustanovitev, dejavnost, sedež,...
+* **Finančno stanje:** Prikaz letnega dobička/izgube, ključnih finančnih kazalnikov (npr. prodaja, izdelek, stroški,...). Lahko uporabite preglednice in grafe.
+* **Ključni dosežki:** Predstavitev pomembnih uspehov in dosežkov v letu.
+* **Težave in izzivi:** Pojasnite ključne težave in izzive, s katerimi ste se soočali, ter načrt za njihovo reševanje.
+* **Prihodnji cilji:** Odkrijte svoje planirane cilje in strategije za prihodnost.
+
+**3. Oblika poročila:**
+
+* **Preprosta in jasna struktura:** Poročilo mora biti enostavno razumljivo in pregledno.
+* **Kratki in zgoščeni tekst:** Izogibajte se predolgemu in zapletenemu jeziku.
+* **Grafični elementi:** Uporabite grafe, diagrame in slike za prikaz podatkov na bolj zanimiv način.
+
+**4. Oblikovanje:**
+
+* **Profesionalni dizajn:** Poročilo mora imeti profesionalen videz in obliko.
+* **Enostavno spletno mesto:** Lahko uporabite preprosto spletno stran, da objavite poročilo in ga zlahka delite.
+
+
+**Dodatne nasvete:**
+
+* Ne pozabite na zaključek in zahvalo za sodelovanje.
+* Poročilo naj bo skrbno pregledano pred objavo.
+* Pripravite tudi kratko predstavitev poročila za zasedanje.
+
+Za majhne družbe je lahko priročno uporabiti brezplačne programe za pripravo poročil, kot so Google Docs ali LibreOffice Writer.
+
+
+Upam, da vam to pomaga!
+---
+Kot samostojni podjetnik posameznik morate upoštevati naslednje zahteve glede vodenja poslovnih knjig:
+
+* **Sistem vodenja knjig:**  V praksi boste najverjetneje uporabljali sistem **enostavnega knjigovodstva**, če v zadnjem poslovnem letu niste prekoračili dveh izmed teh meril:
+    * povprečno število delavcev ne presega tri,
+    * letni prihodki nižji od 42.000 eurov,
+    * povprečna vrednost aktive (polovica seštevka vrednosti aktive na prvi in zadnji dan poslovnega leta) ne presega 25.000 eurov.
+
+To velja tudi za vas, če začnete z dejavnostjo in v prvem poslovnem letu ne zaposlujete povprečno več kot tri delavce.
+* **Poseben standard:** Način vodenja poslovnih knjig in sestavljanja računovodskih izkazov za podjetnike, ki ustreza merilom za majhne družbe, ureja poseben slovenski računovodski standard.
+
+**Pomembno je vedeti:**
+* Če presežete dva od navedenih meril, boste morali uporabljati sistem dvostavnega knjigovodstva.
+* V nekaterih primerih (npr. če izpolnjujete pogoje za zavezance za davek od dohodka iz dejavnosti), vam zakon ne zahteva vodenja poslovnih knjig in sestavljanja letnega poročila.
+
+
+**Priporočamo:** Posvetlite si dodatne informacije na spletni strani davčne administracije ali se posvetlite pri računovodskem strokovnjaku, da boste prepričani, da izpolnjujete vse zahteve.
+---
+Da, je mogoče prenesti lastništvo nad svojo samostojno podjetniško dejavnostjo na svojo ženo.
+
+Vendar pa ti ne morem posredovati pravnih nasvetov.  Postopek prenosa samostojnega podjetništva ni enostaven in zahteva natančno izvedbo, da bo vse zakonito.
+
+**Temeljni koraki pri prenosu:**
+
+* **Sporazum:** Najprej morata skleniti pisni sporazum o prenosu dejavnosti, ki mora jasno opredeliti pogoje prenosa (npr. cena, prevzem obveznosti, plačilo davkov).
+* **Akt o ustanovitvi nove družbe:**  V tem primeru se bo ustanovila nova samostojna podjetniška dejavnost v imenu tvoje žene.
+* **Prenos licence/dovoljenj:** Če imaš za svojo dejavnost posebne licence ali dovoljenja, jih bo treba prenesti na novo družbo.
+* **Vpis v Register:**  Novi podjetniški status mora biti vpisan v register pristojnega organa (občine).
+
+**Priporočila:**
+
+* **Posvetli si pravno stanje:** Poskusiti bi morali poiskati nasvet pri odvetniku ali računovoditelju, ki se ukvarja s prenosom samostojne podjetniške dejavnosti.
+* **Preveri davčne posledice:** Preglej, kako bo prenos vplival na davek na dobiček in druge davke.
+---
+Samo strokovnjak za poslovanje in pravo ti bo zagotovil popolno in odgovarjajočo pomoč pri prenosu tvoje dejavnosti.
+
+
+To je odvisno od tega, ali družba z omejeno odgovornostjo izpolnjuje določene pogoje:
+
+* **Če vrednost prenesenega podjetja ni večja od vrednosti, določene v četrtem odstavku 476. člena tega zakona, ustanovitvena revizija za družbo z omejeno odgovornostjo ni potrebna.**
+* **Družba z omejeno odgovornostjo mora imeti revizijsko komisijo, če:**
+    * **se trguje njeni vrednostni papirji na organiziranem trgu,**  ali
+    * **deluje v skladu z zakonom uveljavljajo svojo pravico do sodelovanja v organih družbe.**
+
+
+Žal mi ni mogoče pojasniti, kaj natanko pomeni "četrtem odstavku 476. člena tega zakona", saj nimam dostopa do celotnega zakona o družbah.
+
+Za natančno odgovor na vprašanje si priporočam, da se posvetliš določbe omenjenega zakona ali poiščeš nasvet strokovnjaka za pravne zadeve.
+---
+Revizijska komisija ima več pomembnih nalog:
+
+* **Spremljanje postopka računovodskega poročanja:** Komisija spremlja, kako družba pripravlja svoje finančne izkaze.
+* **Spremljanje učinkovitosti notranje kontrole:** To vključuje pregledovanje notranjih procedur za zagotovočnost celovitega in točnega poročanja finančnih informacij.
+* **Spremljanje obvezne revizije letnih in konsolidiranih računovodskih izkazov:** Komisija spremlja delo neodvisnega revizorja, ki preveri finacne izkaze družbe.
+* **Pregledovanje in spremljanje neodvisnosti revizorja:** Komisija poskrbi, da je revizor za letno poročilo družbe nepristranski in ne opravlja dodatnih storitev, ki bi lahko ogrozile njegovo objektivnost.
+* **Predlaganje imenovanja kandidata za revizorja:** Komisija predlaga nadzornemu svetu potencialnega revizorja za letno poročilo družbe.
+
+Poleg tega se zanaša na sodelovanje s revizorjem in preko izmenjave informacij poskrbi, da je proces revizije transparenten in učinkovit.
+
+
+V bistvu deluje kot nadzorni organ, ki skrbi za integriteto finančnih poročil družbe in zagotavlja zaupanje v njene finančne podatke.
+---
+Revizor (revizijska družba ali samostojni revizor/revizorka) ima dovoljenje za opravljanje revidiranja po zakonu, ki ureja revidiranje.
+
+Njegove naloge so:
+
+* **Pregled poslovnih knjig in dokumentacije:** Revizor mora imeti dostop do vseh poslovnih knjig, dokumentov in premoženjskih predmetov družbe, da lahko opravi revizijo.
+* **Obvezna revizija letnih in konsolidiranih računovodskih izkazov:** Revizor mora preveriti in potrditi točnost letnih in konsolidiranih finančnih izkazov družbe.
+* **Spremljanje postopka računovodskega poročanja, učinkovitosti notranje kontrole in sistemov za obvladovanje tveganja:** Revizor nadzira, kako dobro delujejo interni procesi družbe v zvezi z financami.
+* **Pregled neodvisnosti revizorja:**
+
+Zlasti se preverja, da revizor ni v konfliktu interesov in da lahko objektivno oceni finančno stanje družbe.
+
+* **Predlaganje kandidata za revizorja letnega poročila družbe nadzornemu svetu.**
+* **Nadzorovanje neoporečnosti finančnih informacij, ki jih daje družba.**
+
+* **Ocenjevanje sestavljanja letnega poročila in sodelovanje pri določitvi pomembnejših področij revidiranja.**
+
+
+
+V skladu z zakonom mora revizor predložiti revizijsko poročilo organom vodenja ali nadzora družbe, za katero je opravil revizijo.
+---
+Stvarni vložki so tisti premoženjski predmeti ali pravice, ki jih delničarji prispevajo v družbo namesto denarja.
+
+**Pomembne lastnosti:**
+
+* **Gospodarska vrednost:** Stvarni vložki morajo imeti ugotovljivo gospodarsko vrednost.
+* **Ne more biti dolžnost:** Dolžnost opraviti storitev se ne šteje za stvarni vložek.
+* **Obvezno določbe v statutu:** Statut mora jasno opredeliti predmet stvarnega vložka, osebo, od katerega ga družba pridobi, ter število delnic (in nominalni znesek pri delnicah z nominalnim zneskom).
+
+**Primeri:**
+
+* Prispevek nepremičnine ali opreme v družbo.
+* Prevzem obratov ali drugih premoženjskih predmetov.
+
+
+Stvarni vložki se lahko uporabljajo tudi za povečanje osnovnega kapitala, vendar morajo biti izpolnjeni določeni pogoji (objavitev pridobitve stvarnega vložka).

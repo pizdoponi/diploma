@@ -1,0 +1,100 @@
+// 55/3
+Kaj je majhna družba?
+---
+Majhna družba je družba, ki izpolnjuje dve od teh meril:
+- povprečno število delavcev v poslovnem letu ne presega 50,
+- čisti prihodki od prodaje ne presegajo 8.800.000 eurov, in
+- vrednost aktive ne presega 4.400.000 eurov.
+
+Mikro družba je družba, ki izpolnjuje dve od teh meril:
+- povprečno število delavcev v poslovnem letu ne presega deset,
+- čisti prihodki od prodaje ne presegajo 2.000.000 eurov, in
+- vrednost aktive ne presega 2.000.000 eurov.
+-----
+// 55/5
+Kaj je velika družba?
+---
+Velika družba je družba, ki ni srednja družba glede na naslednje kriterije:
+
+Srednja družba je družba, ki ni mikro družba ali majhna družba, in ki izpolnjuje dve od teh meril:
+- povprečno število delavcev v poslovnem letu ne presega 250,
+- čisti prihodki od prodaje ne presegajo 35.000.000 eurov, in
+- vrednost aktive ne presega 17.500.000 eurov.
+-----
+// 56/9/4, 54/10, 54/11
+Katere družbe morajo sestaviti računovodsko poročilo v skladu z mednarodnimi standardi raćunovodskega poročanja?
+---
+Družbe, katerih vrednostni papirji so uvrščeni na katerega od organiziranih trgov vrednostnih papirjev v državah članicah Evropske skupnosti, morajo sestaviti konsolidirano letno poročilo v skladu z mednarodnimi standardi računovodskega poročanja.
+
+Poleg družb iz prejšnjega odstavka sestavljajo računovodska poročila v skladu z mednarodnimi standardi računovodskega poročanja tudi:
+1. banke,
+2. zavarovalnice, in
+3. druge družbe, če tako odloči skupščina družbe, vendar najmanj za pet let.
+-----
+// 60/1
+Iz česa je sestavljeno letno poročilo družb?
+---
+Letno poročilo družb je sestavljeno iz:
+- bilance stanja,
+- izkaza poslovnega izida,
+- izkaza denarnih tokov,
+- izkaza gibanja kapitala,
+- priloge s pojasnili k izkazom, in
+- poslovnega poročila.
+-----
+// 54, 73/2, 73/1
+Kdaj poslovne knjige ne rabijo biti vodene po sistemu dvostavnega knjigovodstva?
+---
+Podjetnik lahko vodi poslovne knjige po sistemu enostavnega knjigovodstva, če ni v zadnjem poslovnem letu prekoračil dveh od teh meril:
+- da povprečno število delavcev ne presega tri,
+- da so letni prihodki nižji od 42.000 eurov,
+- da povprečna vrednost aktive, izračunana kot polovica seštevka vrednosti aktive na prvi in zadnji dan poslovnega leta, ne presega 25.000 eurov. To velja tudi za podjetnika, ki začne opravljati dejavnost in v prvem poslovnem letu ne zaposluje povprečno več kot tri delavce.
+-----
+// 188/4, 195
+Kakšne so naloge revizorja pri poustanovitvi družbe?
+---
+Pogodbo o poustanovitvi mora pregledati revizor. Ustanovitvena revizija mora ugotoviti zlasti:
+- ali so podatki ustanoviteljev o prevzemu delnic, vložkih v osnovni kapital, posebnih ugodnostih in ustanovitvenih stroških ter stvarnih vložkih in stvarnem prevzemu pravilni in popolni;
+- ali vrednost stvarnih vložkov in stvarnega prevzema dosega najmanj emisijsko vrednost delnic ali vrednost plačil, ki jih je treba za to zagotoviti.
+O vsaki reviziji se sestavi pisno poročilo, v katerem se opiše predmet stvarnega vložka ali stvarnega prevzema ter navede ocenjevalne metode, ki so bile pri tem uporabljene.Ustanovitveni revizor dostavi po en izvod poročila registrskemu organu ter poslovodstvu družbe. Poročilo si lahko vsakdo ogleda na registrskem organu.
+-----
+// 194, 194a
+V katerih primerih ustanovitvenemu reizorju ni potrebno pregledati ustanovitve?
+---
+Ustanovitvenemu revizorju ni treba pregledati ustanovitve:
+- če so predmet stvarnega vložka prenosljivi vrednostni papirji ali instrumenti denarnega trga, kakor jih določa zakon, ki ureja trg finančnih instrumentov, in je njihova vrednost določena kot tehtano povprečje enotnega tečaja, doseženega na enem ali več organiziranih trgih, kakor jih določa zakon, ki ureja trg finančnih instrumentov, v najmanj šest mesečnem obdobju, ki se konča en teden pred dnevom sprejema statuta;
+- če je predmet stvarnega vložka, razen prenosljivih vrednostnih papirjev in instrumentov denarnega trga iz prejšnje alineje, že bil vrednoten s strani revizorja največ šest mesecev pred dnevom izročitve predmeta stvarnega vložka in je bilo vrednotenje opravljeno v skladu s splošno priznanimi standardi in načeli vrednotenja, ali
+- če izvira poštena vrednost predmeta stvarnega vložka, razen prenosljivih vrednostnih papirjev in instrumentov denarnega trga iz prve alineje tega odstavka, iz posameznega predmeta stvarnega vložka, izkazanega v revidiranem letnem poročilu prejšnjega poslovnega leta.
+-----
+// 279/5, 257
+Katere komisije lahko imenuje nadzorni svet?
+---
+Nadzorni svet lahko imenuje eno ali več komisij, na primer revizijsko komisijo, komisijo za imenovanja in komisijo za prejemke, ki pripravljajo predloge sklepov nadzornega sveta, skrbijo za njihovo uresničitev in opravljajo druge strokovne naloge. V družbi, ki je subjekt javnega interesa, mora nadzorni svet oblikovati revizijsko komisijo. Komisija ne more odločati o vprašanjih, ki so v pristojnosti nadzornega sveta.Komisijo sestavljajo predsednik in najmanj dva člana. Predsednika imenuje nadzorni svet izmed svojih članov. Sej komisije se smejo udeleževati le člani komisije, če statut ali poslovnik nadzornega sveta ne določa drugače. Pri obravnavanju posameznih točk so lahko na sejo komisije povabljeni izvedenci ali poročevalci.
+-----
+// 318, 319, 320
+Kakšne so naloge posebnega revizorja in o čem poroča?
+---
+Skupščina lahko z navadno večino glasov imenuje posebnega revizorja zaradi preveritve ustanovitvenih postopkov ter vodenja posameznih poslov družbe, vključno s posli povečanja ali zmanjšanja osnovnega kapitala, v zadnjih petih letih. Za posebnega revizorja ne more biti imenovana oseba, ki je revidirala letno poročilo družbe v zadnjih petih letih.
+Če skupščina zavrne predlog za imenovanje posebnega revizorja, ga imenuje sodišče na predlog delničarjev, katerih skupni deleži znašajo najmanj desetino osnovnega kapitala ali katerih nominalni znesek ali pripadajoči znesek osnovnega kapitala znaša najmanj 400.000 eurov, če obstaja vzrok za domnevo, da je prišlo pri vodenju postopkov in poslov do nepoštenosti ali hujših kršitev zakona ali statuta.
+Poslovodstvo mora posebnemu revizorju omogočiti, da pregleda poslovne knjige in dokumentacijo družbe, kakor tudi premoženjske predmete, še zlasti blagajno družbe, zaloge, vrednostne papirje, blago ter preostalo premoženje družbe.Posebni revizor lahko zahteva od članov organov vodenja ali nadzora vsa pojasnila in dokazila, potrebna za skrben pregled postopkov.
+Posebni revizor mora o ugotovitvah revizije pripraviti pisno poročilo (v nadaljnjem besedilu: posebno revizorjevo poročilo).V posebno revizorjevo poročilo se zapišejo tudi dejstva, katerih objava lahko družbi ali povezani družbi povzroči večjo škodo, če so pomembna, da bi lahko skupščina ustrezno ovrednotila postopke ali posle, ki se preverjajo.Posebni revizor podpiše posebno revizorjevo poročilo in ga nemudoma predloži poslovodstvu in sodišču.
+-----
+// 466/1, 183
+Ali je mišljeno kaj vse mora vsebovsti statut komanditbne delniške družbe?
+---
+Statut, ki mora biti sestavljen v obliki notarskega zapisa, mora določati:
+- ime, priimek in prebivališče ali firmo in sedež vsakega ustanovitelja;
+- firmo in sedež družbe;
+- dejavnosti družbe;
+- znesek osnovnega kapitala;
+- če ima družba delnice z nominalnim zneskom: nominalni znesek delnic in število delnic vsakega nominalnega zneska, če je več razredov delnic, tudi razred delnic ter nominalne zneske in število delnic, ki se izdajo v posameznem razredu;
+- če ima družba kosovne delnice: število delnic, če je več razredov delnic, tudi razred delnic in število delnic, ki se izdajo v posameznem razredu;
+- ali se delnice glasijo na prinosnika ali na ime;
+- znesek vplačanega kapitala na dan vpisa družbe v register in vsakokratni vplačani kapital;
+- sistem upravljanja (enotirni ali dvotirni);
+- število članov organov vodenja ali nadzora, ali akt, v katerem se to določi;
+- mandatna doba članov organov vodenja ali nadzora;
+- obliko in način objav, pomembnih za družbo ali delničarje;
+- čas trajanja družbe, če je ustanovljena za določen čas, in
+- način prenehanja družbe.
+Poleg navedenih podatkov mora statut za komanditno delniško družbo vsebovati še ime in priimek ter prebivališče ali firmo in sedež vsakega komplementarja.

@@ -1,0 +1,63 @@
+// 54/4
+Kako pogosto je potrebno preveriti, ali se stanje posameznih aktivnih in pasivnih postavk v poslovnih knjigah ujema z dejanskim stanjem?
+---
+Najmanj enkrat letno
+-----
+// 55/2
+Kaj je mikro družba?
+---
+Mikro družba je družba, ki izpolnjuje dve od teh meril:
+- povprečno število delavcev v poslovnem letu ne presega deset,
+- čisti prihodki od prodaje ne presegajo 2.000.000 eurov, in
+- vrednost aktive ne presega 2.000.000 eurov.
+-----
+// 55/8
+Ali se zavarovalnica smatra kot velika družba?
+---
+Zavarovalnica se smatra kot velika družba.
+-----
+// 57/6
+O čem mora revizor poročati revizijski komisiji?
+---
+Revizor mora revizijsko komisijo obveščati o glavnih zadevah v zvezi z revizijo letnega poročila, zlasti o pomembnih pomanjkljivostih notranjih kontrol v povezavi s postopkom računovodskega poročanja.
+-----
+// 68/2
+Na kaj je treba biti pozoren pri vrednotenju sredstev in obveznosti do vira sredstev, ki na podlagi združitve ali delitve preidejo na prevzemno družbo?
+---
+Da se morajo ovrednotiti v skladu s slovenskimi računovodskimi standardi ali mednarodnimi standardi računovodskega poročanja.
+-----
+// 72/4
+Kaj se zgodi s podjetjem, če podjetnik umre?
+---
+Če podjetnik umre, lahko podjetnikov dedič, ki nadaljuje zapustnikovo podjetje, v ﬁrmi še naprej uporablja tudi ime in priimek zapustnika. Z nadaljevanjem zapustnikovega podjetja preidejo na podjetnikovega dediča podjetje podjetnika ter pravice in obveznosti podjetnika v zvezi s podjetjem. Podjetnikov dedič kot univerzalni pravni naslednik vstopi v vsa pravna razmerja v zvezi s prenesenim podjetjem podjetnika .
+-----
+// 72/1
+Kaj vsebuje firma podjetnika?
+---
+Firma podjetnika vsebuje ime in priimek podjetnika, skrajšano oznako, da gre za samostojnega podjetnika (s.p.), oznako dejavnosti in morebitne dodatne sestavine.
+-----
+// 72/7
+Ali prokura preneha s smrtjo ali izgubo poslovne sposobnosti podjetnika?
+---
+Ne.
+-----
+// 73/3
+Kdaj lahko podjetnik poslovne knjige void po sistemu enostavnega knjigovodstva?
+---
+Podjetnik vodi poslovne knjige po sistemu enostavnega knjigovodstva, če ni v zadnjem poslovnem letu prekoračil dveh od teh meril:
+- da povprečno število delavcev ne presega tri,
+- da so letni prihodki nižji od 50.000 eurov,
+- da povprečna vrednost aktive, izračunana kot polovica seštevka vrednosti aktive na prvi in zadnji dan poslovnega leta, ne presega 25.000 eurov. To velja tudi za podjetnika, ki začne opravljati dejavnost in v prvem poslovnem letu ne zaposluje povprečno več kot tri delavce.
+-----
+// 187/1
+Kateri premoženjski predmeti se ne štejejo kot stvarni vložki ali stvarni prevzem?
+---
+Kot stvarni vložki ali stvarni prevzem se lahko štejejo le tisti premoženjski predmeti ali pravice, katerih gospodarska vrednost je ugotovljiva. Dolžnost opraviti storitev se ne šteje za stvarni vložek ali stvarni prevzem v smislu tega člena.
+-----
+// 194a/1
+Kdaj za ustanovitev s stvarnimi vložki ni potrebno mnenje revizorja?
+---
+Ustanovitvenemu revizorju ni treba pregledati ustanovitve:
+- če so predmet stvarnega vložka prenosljivi vrednostni papirji ali instrumenti denarnega trga, kakor jih določa zakon, ki ureja trg finančnih instrumentov, in je njihova vrednost določena kot tehtano povprečje enotnega tečaja, doseženega na enem ali več organiziranih trgih, kakor jih določa zakon, ki ureja trg finančnih instrumentov, v najmanj šest mesečnem obdobju, ki se konča en teden pred dnevom sprejema statuta;
+- če je predmet stvarnega vložka, razen prenosljivih vrednostnih papirjev in instrumentov denarnega trga iz prejšnje alineje, že bil vrednoten s strani revizorja največ šest mesecev pred dnevom izročitve predmeta stvarnega vložka in je bilo vrednotenje opravljeno v skladu s splošno priznanimi standardi in načeli vrednotenja, ali
+- če izvira poštena vrednost predmeta stvarnega vložka, razen prenosljivih vrednostnih papirjev in instrumentov denarnega trga iz prve alineje 194a.člena ZGD-1, iz posameznega predmeta stvarnega vložka, izkazanega v revidiranem letnem poročilu prejšnjega poslovnega leta.

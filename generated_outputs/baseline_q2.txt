@@ -1,0 +1,182 @@
+V Sloveniji ni jasne, stroge definicije "majhne družbe".
+
+Praviloma pa se s pojmom "majhna družba" nanašamo na podjetja, ki imajo **manjšo število zaposlenih** in/ali **nižji obseg poslovanja**.
+
+Za določitev natančnega kriterija se lahko opiramo na:
+
+* **Zakon o davku na dodano vrednost**: ta določa kriterije za **mikropodjetja**, ki so majhna podjetja z največ 2 zaposlenimi in obsegom prihodkov do 40.000 EUR.
+* **Uradna statistična evidenca:** Statistični urad Republike Slovenije razvršča podjetja v skupine glede na število zaposlenih. V tabele so lahko vključeni tudi kriteriji, kot je obseg poslovanja.
+
+Pomembno je vedeti, da **različni programi in subvencije** za področje malih in srednje velikih podjetij (MSP) lahko uporabljajo različne kriterije za razvrščanje podjetja kot "majhnega".
+
+
+Za natančnejše definiranje "majhne družbe" v konkretnem kontekstu je potrebno poznati **specifično situacijo** in **kateri program ali subvencija** je v ospredju.
+---
+"Velika družba" je pogoj, ki se običajno nanaša na podjetje z velikim številom zaposlenih, visokim prihodkom in pomembnim vplivom na gospodarstvo.
+
+**Ni stroge definicije**, kaj šteje za "veliko" podjetje, saj se to lahko razlikuje glede na državo, industrijo ali druge dejavnike. Nekatere skupine uporabljajo **obseg zaposlenih**, drugi pa **povprečni prihodke**.
+
+V nekaterih državah obstajajo uradne kategorije podjetij, ki jih označujejo kot "velike", "srednje velike" ali "majhne".
+
+**Primeri velikih družb:** Apple, Amazon, Google, Microsoft, Coca-Cola.
+
+
+Ali bi želel vedeti več o določenem aspektu velikih družb, na primer o njihovem vplivu na gospodarstvo, socialno odgovornost ali kakšni drugi temi?
+---
+Vse javno trgovske družbe (tj. tiste, ki prodajajo svoje delnice na borzi) so dolžan obvestiti o svoji finančni situaciji s sestavo in objavo računovodskega poročila v skladu z mednarodnimi standardi računovodskega poročanja (IFRS).
+
+Poleg tega morajo nekatera podjetja, ki niso javno trgovske družbe, vendar sodelujejo na finančnih trgih ali imajo določene oblike lastništva, sestaviti računovodska poročila v skladu z IFRS. To lahko vključuje:
+
+* **Družbe, ki se odločijo za uporabo IFRS,** čeprav niso dolžane.
+* **Holding družbe**
+
+Zahteve za pripravo računovodskega poročila v skladu z IFRS se lahko razlikujejo glede na državo in zakonodajo.
+
+
+Za natančnejšo informacije o tem, katerih družb je obvezno sestaviti računovodska poročila v skladu z IFRS, vam priporočam, da se posvetlite pri izbranem računovoditelju ali pravnem svetovalcu.
+---
+Letno poročilo družbe je sestavilo iz več delov, ki zagotavljajo transparentnost in pregled o poslovanju družbe v preteklem letu.
+
+**Glavni deli letnega poročila so:**
+
+* **Predstavitvena pismo upravne odgovorne osebe:**
+   V tem delu se na splošno zgledujejo rezultati poslovanja, ključne dosežke in izzive, ki jih je družba soočala v preteklem letu.
+
+* **Odprta bilanca:**
+   Pristopna bilanca prikazuje finančno stanje družbe na koncu poslovnega leta. Razvršča aktivnosti (to, kar ima družba), obveznosti (to, kar družba dolguje) in lastniški kapital (razlika med aktivnostmi in obveznostmi).
+
+* **Poročilo o dobičku in izgubah:**
+   To poročilo prikazuje finančne rezultate družbe v preteklem letu. Zajema ustvarjen dobiček ali izgubo, poslovne prihodke in stroške ter davke.
+
+* **Poročilo o gibanju lastniškega kapitala:**
+   To poročilo prikazuje spremembe v lastniškem kapitalu družbe v preteklem letu. Zajema investicije, izplačila dividende, prenos delnic in druge spremembe.
+
+* **Poročilo o ključnih računovodskih politikah:**
+   V tem delu se opredeljujejo temeljne računovodske metode in pristope, ki jih uporablja družba za pripravo letnega poročila.
+
+* **Drugi dodatki:**
+   Letno poročilo lahko vsebuje še druge dodatke, kot so poročila o notranjem nadzoru, odgovornostni poročanje ali poročila o okoljskih dejavnostih.
+
+
+Pomembno je poudariti, da podrobnosti in struktura letnega poročila družbe ni univerzalna in se lahko razlikujejo glede na velikost družbe, zakonodajo in druge dejavnike.
+---
+Poslovne knjige ne morajo vedno biti vodene po sistemu dvostavnega knjigovodstva, če so **izrecno oproščene** s strani pristojnih organov.
+
+Na primer, v Sloveniji so od izvajanja dvostavnega knjigovodstva oproščeni:
+
+* **Posamezniki, ki opravljajo dejavnost ob vzdrževanju dohodka**,
+* **Družbe z omejenim odgovornim delom (d.o.o.), ki so v skladu s svojim poslovnim načrtom in zakonom oproščene dvostavnega knjigovodstva**.
+
+Poleg tega lahko tudi druge družbe izberejo alternativni sistem vođenja knjig, če imajo za to **ustrezno dokumentacijo in privoljenje davčnega organa.**
+
+**Pomembno je:**
+
+* Izjeme od dvostavnega knjigovodstva so omejene in veljajo le v določenih primerih.
+*  Pri izbiri sistema vođenja poslovnih knjig je pomembno posvetiti pozornost svojim potrebam in obveznostim.
+
+
+Za podrobneje informacije se obrnite na davčnega svetovalca ali odvetnika.
+---
+Revizor ima pomembno vlogo pri ustanovitvi družbe, saj zagotavlja, da postopki potekajo skladno z zakonom in da je celotna dokumentacija pravilno sestavljena.
+
+Naloge revizorja pri ustanovitvi družbe so med drugim:
+
+* **Preverjanje ustanovnih dokumentov:** Revizor preveri, ali so vsi ustanovni dokumenti (tudi  akt o ustanovitvi, statut in ostala potrebna dokumentacija) pravilno sestavljeni in vsebujejo vse zahtevane podatke.
+* **Varstvo interesov družbe in njenih članov:** Revizor poskrbi, da so interese vseh akcionarskih skupin zaščitene in da se izogibajo morebitnim konfliktom interesa med njimi.
+* **Preverjanje ustreznosti določb statuta:** Revizor preveri, ali so določbe statuta skladne z zakonom in ali vsebujejo vse bistvene elemente, kot so namen poslovanja, sedež družbe, način upravljanja itd.
+* **Izdaja potrdila o reviziji:** Po uspešni reviziji ustanovnih dokumentov izda revizor potrdilo, ki potrjuje, da so dokumenti v skladu z zakonom in da se je z njimi strogo ravnalo.
+
+
+POMEMBNO:  Revizor ni odgovoren za pravno veljavnost ustanovnih dokumentov. To odgovornost nosi sam ustanovitelj družbe.
+---
+Ustanoviteljem se ne glede na vrsto ustanovitve **ni** vedno potrebno pregledati ustanovitve.
+
+Pojavljajo se namreč primeri, ko je pregled ustanovitve izrecno **izvzet** ali ni potreben zaradi narave samega dejanja.
+
+Primeri takšnih situacij:
+
+* **Življenjski dokumenti**: Ko gre za ustanovitev neprofitne organizacije, ki deluje zgolj v javnem interesu in ne pridobiva dobička (npr. društva, združbe), pregled ustanovitve ni obvezen, če je vse skupaj v okviru zakona in ustreznih pravil.
+* **Zamenjava imena**: Če že obstoječa ustanova le spremeni ime, pregled ustanovitve ni potreben.
+* **Spremembe organov**: Posamezne spremembe v sestavi organov (npr. izvolitveni novi član) se opravljajo brez pregleda ustanovitve.
+
+Vendar pa velja opozoriti, da to niso edine situacije, ko je pregled ustanovitve izvzet.
+
+**Pomembno je vedno:**
+
+* Preveriti aktualne zakone in predpise.
+* V primeru dvomov se obrniti na pristojne organe ali pravnika za konkretno informacijo.
+
+
+Uporabnik mora biti pozoren, da se v skladu z veljavno zakonodajo spoštujejo vse postopke. Prav tako je pomembno imeti jasno predstavo o svojih pravicah in obveznostih kot ustanovitelja.
+---
+Nadzorni svet lahko imenuje naslednje komisije:
+
+* **Revizijsko komisijo:**  Njena glavna naloga je pregled in revizija finančnih poslov družbe.
+* **Komisijo za odločanje o konfliktih interesov:** Ta komisija razpravlja in odloča o morebitnih konfliktih interesov med članovi nadzornega sveta, upravljanja ali zaposlenimi v podjetju.
+
+Poleg teh dveh je mogoče imenovati še druge komisije, ki so specifične za posamezno družbo in njene dejavnosti. Na primer, lahko obstaja komisija za odločanje o  akviziciji ali prodaji, komisija za etiko, komisija za razvoj itd.
+
+Namen imenovanja teh komisij je zagotavljanje **transparentnega in učinkovitega delovanja** družbe ter **zavarovanje njenih interesov**.
+
+
+Za več podrobnosti o specifičnih pravilih za vsako vrsto komisije se posvetujte v statutu družbe ali ustrezni zakonodaji.
+---
+Poseben revizor je strokovnjak, ki opravlja neodvisno preverjanje in analizo poslovanja, financ ali drugih operacij organizacije. Njegove naloge so zelo široke in se lahko razlikujejo glede na specifične zahteve vsake organizacije.
+
+**Nekatere glavne naloge posebnega revizorja so:**
+
+* **Preverjanje financ:**
+    * Preveri celovitost, natančnost in pravilnost knjigovodskih zapisov
+    * Ocenjuje notranjo kontrolo in sistem za preprečevanje goljufij
+    * Analizira finančno stabilnost organizacije
+* **Preverjanje operativnih procesov:**
+    * Preveri učinkovitost, skladnost in efektivnost operativnih procesov
+    * Identificira okvare in priporoča izboljšave
+    * Preveri skladnost z zakonom in regulativama
+* **Pregled poslovnih odločitev:**
+    * Analizira pomembne poslovne odločitve in njihovo ustreznost
+    * Identificira potencialna tveganja in priporoča ukrepe za zmanjšanje tveganj
+* **Preverjanje varstva podatkov:**
+    * Preveri varnost sistema za shranjevanje in obdelavo podatkov
+    * Ugotavlja, ali so izvedene ustrezne ukrepe za preprečevanje zlorab podatkov
+
+**Poseben revizor pripravi poročilo o svojih ugotovitvah, ki vsebuje:**
+
+* Povzetek naloge in zakona, na katerem temelji
+* Opis metodologije preverjanja
+* Ugotovitev glede celovitosti, natančnosti in pravilnosti knjigovodskih zapisov
+* Analiza notranje kontrole in sistema za preprečevanje goljufij
+* Ocena finančne stabilnosti organizacije
+* Pregled operativnih procesov in priporočila za izboljšave
+* Ugotavljanje skladnosti z zakonom in regulativama
+* Pregled poslovnih odločitev in potencialnih tveganj
+
+Poročilo se običajno pošlje vodstvu organizacije, nadzornemu organu ali drugim zainteresiranim strankam.
+
+
+
+Upam, da vam je to informacija koristna!
+---
+Statut komanditne delniške družbe (KDD) mora vsebovati **obvezna** in **prostovoljna** določila.
+
+**Obvezna določila:**
+
+* **Ime in sedež družbe:** Kako se imenuje družba in kje ima sedež.
+* **Predmet poslovanja:** Kaj bo družba počela.
+* **Trajanje družbe:** Za kako dolgo bo družba obstajala.
+* **Kapital družbe:** Skupna vrednost vloge vlagateljev (komandit) in delnic (akcionarov).
+* **Pravice in obveznosti komanditov:** Kako se udeležijo poslovanja, kako so odgovorni za dolge in kakšne pravice imajo.
+* **Pravice in obveznosti akcionarov:** Kakšne so njihove pravice pri odločanju in deleže v dobičku.
+* **Postopek sprejemanja sklepov:** Kako se vzpostavlja upravljanje družbe in kakšni postopki veljajo za sprejemanje odločitev.
+* **Drugi obvezni elementi**: Načini povečanja kapitala, imenovanja in odvolitve članov uprave, prenos delnic in komanditnih deležev, način izplačila dividend itd.
+
+**Prostovoljna določila:**
+
+Statut lahko vsebuje še druge določbe, ki jih želijo ustanovitelji vključiti, na primer:
+
+* **Postopki za odpravo družbe**: Kako se bo družba razpustila in kako bodo bili deljeni preostali aktiv.
+* **Posebne pravice komanditov ali akcionarov**: Na primer omejena odgovornost komanditov.
+
+Statuta je dobro napisati jasno, pregledno in popolnoma zajeti vse pomembne določbe.
+
+**POMEMBNO:** Pri tem priporočam, da se posvetujete o vseh pomembnih vidikih statusa KDD s pravnikom, saj le-ta vam bo lahko dal najbolj natančen nasvet glede specifičnih zahtev za vašo situacijo.

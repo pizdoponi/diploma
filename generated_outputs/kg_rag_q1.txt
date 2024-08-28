@@ -1,0 +1,71 @@
+Najmanj enkrat letno je treba preveriti, ali se stanje posameznih aktivnih in pasivnih postavk v poslovnih knjigah ujema z dejanskim stanjem.
+
+
+Ta pogoj ne velja za sestavo vmesne bilance stanja.
+---
+Mikro družba je družba, ki izpolnjuje **dve** od teh treh meril:
+
+* Povprečno število delavcev v poslovnem letu ne presega desetih.
+* Čisti prihodki od prodaje ne presegajo 2.000.000 eurov.
+* Vrednost aktive ne presega 2.000.000 eurov.
+
+
+To pomeni, da mora družba izpolniti vsaj dve od teh pogojev, da se lahko šteje za mikro družbo.
+---
+Na podlagi dani tekstov ni mogoče reči ali se zavarovalnica smatra kot velika družba.
+
+Dokumenti govorijo o tem, katere akti morajo biti v slovenščini, sestave koncerna in kdaj mora biti sklicana skupščina ter kaj odločajo družbeniki.  Ni pa nobenega opredelitve "velike družbe" ali meril za njeno določitev.
+---
+Revizor mora revizijsko komisijo obveščati o **glavnih zadevah v zvezi z revizijo letnega poročila**, zlasti o **pomembnih pomanjkljivostih notranjih kontrol v povezavi s postopkom računovodskega poročanja**.
+
+
+To pomeni, da mora revizor komisiji posredovati informacije o svojih ugotovitvah glede učinkovitosti notranje kontrole in sistemov za obvladovanje tveganja v družbi.
+---
+Pri vrednotenju sredstev in obveznosti, ki preidejo na prevzemno družbo, je treba biti pozoren na uporabo **slovenskih računovodskih standardov** ali **mednarodnih standardov računovodskega poročanja**.
+
+
+To pomeni, da se mora vrednotenje izvajati v skladu z veljavnimi standardi in smernicami za poslovno poročanje.
+---
+Če podjetnik umre, lahko njegov dedič nadaljuje zapustnikovo podjetje.
+
+Pri nadaljevanju preidejo na dediča vse pravice in obveznosti podjetnika v zvezi s podjetjem. Dedik postane novi univerzalni pravni naslednik in se vpiše kot podjetnik v Poslovni register Slovenije, kar pomeni, da lahko še naprej uporablja ime in priimek zapustnika.
+
+Je pa pomembno, da dedič AJPES obvesti o smrti podjetnika in v treh mesecih po pravnomočnosti sklepa o dedovanju predloži izjavo, da bo nadaljeval zapustnikovo podjetje.
+---
+Firma podjetnika v prijavi za vpis v Poslovni register Slovenije vključuje:
+
+* **Ime in priimek podjetnika**
+* **EMŠO**
+* **Prebivališče**
+* **Davčno številko**
+
+
+Če je podjetje pravno oseba, bo firma vsebovala ime in sedež podjetja.
+---
+Ne, prokura ne preneha s smrtjo ali izgubo poslovne sposobnosti podjetnika.  (glej podatek (7)).
+---
+Podjetnik lahko vodi poslovne knjige po sistemu enostavnega knjigovodstva, če v zadnjem poslovnem letu:
+
+* ni imel **preko 50.000 EUR prihodkov** (v povprečju za tri pretekla leta)
+* ni imel **več kot 10 zaposlenih**.
+
+
+
+Poudariti je potrebno, da ta pogoji veljajo za poslovanje v Sloveniji in da se lahko zlasti glede na spremembe zakonodaje spremenijo. Za najtočnejše informacije je vedno najbolje obrniti se na ustrezne institucije ali strokovnjake.
+---
+Na podlagi navedenih podatkov ni mogoče ugotoviti, kateri premoženjski predmeti se **ne** štejejo kot stvarni vložki ali stvarni prevzem.
+
+Dokumenti opisujejo postopke in zahteve za prijavo stvarnih vložkov v družbo, vendar ne vsebujejo eksplicitnega opisa, katere premoženjske predmete ta kategorija **ne** vključuje.
+
+
+Žal mi ni mogoče odgovoriti na vašo vprašanje brez dodatnih informacij.
+---
+Za ustanovitev s stvarnim vložkom ni potrebno mnenje revizorja v naslednjih primerih:
+
+* Če je predmet stvarnega vložka prenosljivi vrednostni papirji ali instrumenti denarnega trga, kot jih določa zakon o trgu finančnih instrumentov, in njihova vrednost je določena kot tehtano povprečje enotnega tečaja na organiziranem trgu v najmanj šestmesečnem obdobju pred sprejemom statuta.
+* Če je predmet stvarnega vložka že bil vrednoten s strani revizorja največ šest mesecev pred izročitvijo in je bilo vrednotenje opravljeno v skladu s splošno priznanimi standardi in načeli vrednotenja.
+* Če izvira poštena vrednost predmeta stvarnega vložka iz posameznega predmeta stvarnega vložka, ki doseže najmanj emisijsko vrednost delnic.
+
+
+
+Vse ostale ustanovitev s stvarnimi vložki zahtevajo mnenje revizorja.

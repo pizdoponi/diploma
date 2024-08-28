@@ -1,0 +1,240 @@
+Majhna družba je pogosto opredeljena z enim ali več naslednjih dejavnikov:
+
+**Število zaposlenih:** Najpogostejši kriterij je število zaposlenih. V Sloveniji se za male podjetje običajno šteje podjetje z manj kot 50 zaposleni, v drugih državah pa se lahko mejna vrednost razlikuje.
+
+**Obseg poslovanja:** Druga možnost je določiti majhne družbe na podlagi njihovega letnega prihodka ali obsega posla.
+* **Kapitalizacija:** V nekaterih primerih se za majhne družbe štejejo tudi podjetja z nižjo kapitalizacijo, torej manjšo skupno vrednostjo vseh njenih delnic.
+
+**Drugi dejavniki:**
+* **Strukturna enostavnost:** Majhne družbe so pogosto organizirane na preprostem in hierarhični način.
+* **Manjša fleksibilnost:** Lahko se hitreje prilagajajo spremembam in odgovorijo na zahteve trga.
+
+
+**Pomen pojma "majhna družba":**
+
+Pojem "majhna družba" ima pomembno vlogo, saj se z njim povezujejo določena pravila in prednosti.
+
+* **Priznanja in programi:** Veliko držav in organizacij ponuja posebne priznanja, programe in pomoč majhnim podjetjem.
+* **Financiranje:** Majhne družbe imajo lahko lažje dostop do specifičnega financiranja, namenjenega malim podjetjem.
+* **Spodbujanje lokalnega razvoja:** Podpora majhnim podjetjem je pogosto pomemben del strateških ciljev lokalnih skupnosti.
+
+
+
+V končni fazi pa je pomembno, da se pojmov "majhna družba" in njene definicije ne vzame kot absolutna pravila, saj se lahko razlikujejo v različnih kontekstih.
+---
+Velike družbe so podjetja, ki imajo velik vpliv na gospodarstvo in družbo.
+
+**Opredelitev:**
+
+Obstaja več načinov za opredelitev velike družbe, vendar se običajno zgledujejo po naslednjih kriterijih:
+
+* **Število zaposlenih:** Velike družbe imajo velik število zaposlenih, včasih tisoče ali celo več deset tisoč.
+* **Letni dobiček:** Letni dobiček velike družbe je lahko zelo visok in se meri v milijardah evrov.
+* **Kapitalizacija:** Kapitalizacija velja za skupno vrednost podjetja, ki jo predstavlja tržna kapitalizacija delnic. Velike družbe imajo visoko kapitalizacijo, ki se meri v milijardah ali celo bilijonih evrov.
+* **Vpliva na gospodarstvo:** Velike družbe imata velik vpliv na lokalne in globalne ekonomije, saj ustvarjajo delo, plačajo davke in investirajo v razvoj novih produktov in tehnologij.
+
+**Primeri velikih družb:**
+
+* Apple
+* Microsoft
+* Google
+* Amazon
+* Facebook
+
+**Vpliv na družbo:**
+
+Velike družbe imajo velik vpliv na družbo, saj:
+
+* **Ustvarjajo nove delovne mesta.**
+* **Povzročajo inovacije in tehnološki razvoj.**
+* **Vplivajo na potrošniške navade in kulturo.**
+* **Imata močan vlogo pri oblikovanju globalnih politik.**
+
+**Odziv na vpliv:**
+
+Zaradi svojega velikkega vpliva so velike družbe pogosto tarča kritike glede svojih poslovnih praks, vpliv na okolje in delodajalne prakse. V zadnjem času se zavedajo odgovornosti do družbe in se trudijo izboljšati svoje poslovanje in ustvarjati pozitiven vpliv na svet.
+---
+Družbe, ki morajo sestaviti računovodsko poročilo v skladu z mednarodnimi standardi računovodskega poročanja (IFRS), so predvsem:
+
+* **Javne družbe:** To pomeni družbe, ki svoje delnice prodajajo na javnih borzah ali imajo določeno minimalno število zaposlenih in ustanovljene kapital.
+* **Družbe z obveznostjo poročanja v skladu z IFRS:** Nekatere države imajo zakonske predpise, ki zahtevajo, da izbrani tip družb (npr. banke) sestavi računovodska poročila po IFRS.
+
+**Poleg tega:**
+
+* Velike private družbe se lahko odločijo za uporabo IFRS kljub temu, da niso z zakonom obvezane. To je pogosto motivirano željo po mednarodni združljivosti in lažjem pridobivanju financiranja.
+* Družbe z mednarodno poslovalnostjo se lahko odločijo za uporabo IFRS, da omogočijo enostavnejše primerjave s strani investitorjev in partnerjev po vsem svetu.
+
+Za natančnejšo informacijo o tem, ali je vaša družba obvezana sestaviti računovodsko poročilo v skladu z IFRS, se posvetujte pri davčnem svetovalcu ali računovoditelju.
+---
+Letno poročilo družbe je dokument, ki prikazuje finančne in poslovne rezultate družbe v preteklem poslovnem letu.
+
+Njegova struktura se lahko nekoliko razlikuje od družbe do družbe, vendar običajno vsebuje naslednje dele:
+
+**1. Poročilo upravnega odbora:**
+* Pregled glavnih dogodkov v preteklem poslovnem letu
+* Analiza finančnih rezultatov in poslovanja
+* Prikaz strateških ciljev za prihodnje leto
+
+**2. Bilance:**
+* **Bilanca stanja:** Povezava aktiv, obveznosti in lastniški kapital na določen datum (ob koncu poslovnega leta)
+* **Izkaz o dobičku in izgubi:** Prikazuje priliv in odtekanje denarja v poslovnem letu.
+
+**3. Drugi finančni izkazi:**
+* Izkaz o gibanju gotovine
+* Izkaz o tokovih sredstev
+* Dodatni podatki kot so opombe k bilancem
+
+**4. Poslovna poročila:**
+* Opis poslovanja družbe, vključno z glavnimi dejavnostmi in tržnim položajem
+* Analiza trga in konkurenčnega okolja
+* Strategija za prihodnje obdobje
+
+
+Letno poročilo je pomemben dokument za investitore, kredite, javnost in vse zainteresirane stranke.
+
+Poleg tega vam lahko pomagajo v razumevanju poslovanja družbe in njenih finančnih rezultatov.
+---
+Poslovne knjige se običajno vodijo po sistemu dvostavnega knjigovodstva, vendar obstajajo primeri, ko to ni nujno.
+
+**Primeri, ko sistem dvostavnega knjigovodstva ni potreben:**
+
+* **Majhne podjetja z minimalnimi posli:** Če je podjetje zelo majhno in ima preproste finančne transakcije, lahko poslovne knjige vodi po enostavnejšem načinu, kot je na primer metoda "cash basis" (podatkovna osnova). V tem sistemu se dohodki registrirajo takoj, ko so plačani, in izdatki takoj, ko so bili porabljeni.
+* **Posamezniki:** Posamezniki, ki opravljajo poslovne dejavnosti kot samostojni podjetnik, niso obvezni voditi dvostavnih knjigovodskih evidenc, če niso pravno oblikovani kot družba.
+
+**Pomembno je poudariti:**
+
+* Čeprav ni obvezno, je sistem dvostavnega knjigovodstva v večini primerov prednostni, saj omogoča bolj celovito in natančno prikaz finančnega stanja podjetja.
+* V nekaterih državah ali za določene dejavnosti (npr. davčna zakonodaja) je lahko dvostavno knjigovodstvo obvezno, tudi če bi bilo podjetje primerno majhno.
+
+Preden se odločite, kateri sistem knjigovodstva boste uporabili, se posvetujte o vseh veljavnih zakonskih zahtevah in razmislite o svojih poslovnih potrebah.
+---
+Revizor pri ustanovitvi družbe ima pomembno vlogo, saj se prepriča o skladnosti s pravniškimi predpisi in z zakonom. Njegove glavne naloge so:
+
+**1. Preverjanje ustanovne dokumentacije:**
+
+* **Statuti:** Revizor preveri vse določbe statut, da so v skladu z zakonodajo in ne vsebujejo spornih točk.
+* **Drugi dokumenti:** Po potrebi preveri tudi druge dokumente, kot so pogodbe o ustanovitvi, pogodbe s članovi uprave, itd.
+
+**2. Preverjanje identitete ustanoviteljev:**
+
+* Revizor se prepriča, da so vsi ustanovitelji pravočasno odobrili ustanovitev družbe in da izpolnjujejo pogoje za ustanovitelja.
+
+**3. Preverjanje registracije družbe:**
+
+* Po dokončanju revizije  revizor predloži dokumentacijo na pristojnih organih za registracijo družbe.
+* Včasih je revizor tudi dolžan potrditi, da je vsa dokumentacija v redu in pripravljena za registracijo.
+
+**4. Podpora ustanoviteljem:**
+
+* Revizor lahko nudi svetovalne storitve glede postopkov ustanovitve družbe in odgovori na vprašanja ustanoviteljev.
+
+**Pomembno je vedeti, da naloge revizorja ni sestavljati ustanovnih dokumentov ali opravljati drugih storitev, ki so običajno namenjene advokatom ali notarjem.**
+
+
+Revizor se lahko odloči za neposredno participacijo v postopku ustanovitve družbe ali pa bo poskrbel, da se vse potrebne formalnosti izvedejo pravilno in da je družba ustanovljena skladno z zakonom.
+---
+Glede na zakonodajo v Sloveniji, ustanovitveni razrednik običajno ne potrebuje pregledovat ustanovitve v naslednjih primerih:
+
+* **Oblika pravne osebe:** Obstajajo določene oblike pravnih oseb (npr. družba z omejeno odgovornostjo) za katere ni predpisana obvezna registracija pri ustanovitelju, temveč samo pri sodni upravi.
+* **Ustanovitev v okviru že obstoječega podjetja:** Če se ustanovi nova pravna oseba v okviru že obstoječega podjetja (npr. novo podružnico), ni obvezno registracija pri ustanovitelju.
+* **Neobvezna registracija:** V nekaterih primerih je registracija pri ustanovitelju neobvezna, vendar pa je obvezna pri drugem organu (npr. pri Agenciji za javne službe).
+
+**Pomembno je poudariti, da so zgoraj navedeni primeri le splošni in da se lahko v posameznih primerih razlikujejo.**
+
+**Za natančnejše informacije je vedno najbolje kontaktirati ustrezne organe ali strokovnjake na področju pravnega oblikovanja in registracije.**
+---
+Nadzorni svet v Sloveniji ima pravico imenovati naslednje komisije:
+
+* **Revizijska komisija:** Naloga revizijske komisije je pregled poslovanja družbe, njene finančne stabilnosti in skladnosti z zakoni ter ustanovnimi dokumenti.
+* **Nominacijska komisija:** Nominacijska komisija pripravlja predloge za imenovanje članov upravnega odbora, nadzornega sveta in drugih ključnih funkcionarjev v družbi.
+
+Druge komisije, ki jih lahko imenuje nadzorni svet, so odvisne od specifične strukture in dejavnosti posamezne družbe.
+
+
+Vendar velja omeniti, da nadzorni svet ne more samostojno ustanovati novih komisij, ki niso predvidene v Statute družbe ali zakonu.
+---
+Poseben revizor opravlja različne naloge, ki se v glavnem osredotočajo na preverjanje financ in poslovanja organizacije. Njegove naloge lahko vključujejo:
+
+**Finančno revizijo:**
+
+* Preverjanje ustreznosti finančnih zapisov in poročil ter ugotavljanje, ali so bili pravilno sestavljeni in predstavljeni
+* Analiza finančne stabilnosti in likvidnosti organizacije
+* Pregled odločitev o porabi sredstev in ocenjevanje njihove učinkovitosti
+
+**Operativno revizijo:**
+
+* Preverjanje učinkovitosti operacijskega delovanja organizacije, vključno z procesi, politikami in postopki
+* Analiza rizika in kontrola nad njimi
+* Identifikacija možnosti za izboljšanje procesov in s tem za povečanje učinkovitosti in zmanjšanje stroškov
+
+**Revizijo v zvezi z internem nadzorom:**
+
+* Preverjanje ustreznosti sistema notranjega nadzora in njegove učinkovitosti
+* Identifikacija šibkih mest v sistemu notranjega nadzora in predlaganje ukrepov za izboljšanje
+* Pregled vloge in delovanja oddelka za notranji nadzor
+
+**Povedano preprosto, poseben revizor je kot "kontroler", ki preveri, da organizacija deluje pravilno in učinkovito.**
+
+**O čem poroča poseben revizor?**
+
+Poseben revizor pripravi poročilo, v katerem opisuje svoje ugotovitve in predloge za izboljšave. Poročilo običajno vključuje:
+
+* **Vsebino pregleda:** katere dejavnosti so bile preverjene
+* **Ugotovitve:** kaj je bil znatnega pri pregledu
+* **Predlogi za izboljšave:** kako bi lahko organizacija izboljšala svoje delovanje
+* **Obseg in resničnost ugotovitev:** ali so ugotovitve podprte s dokazili
+
+Poročilo se običajno pošlje vodstvu organizacije, ki ga uporabi za sprejemanje odločitev o izboljšanju poslovanja.
+---
+Statut komanditne delniške družbe (KDD) je pomemben dokument, ki ureja delovanje družbe.
+
+V statutu KDD morajo biti izrecno navedeni naslednji elementi:
+
+**1. Osnovni podatki:**
+
+* **Ime in sedež družbe:**
+* **Namen družbe:**
+* **Trajanje družbe:**
+* **Družbeni sklad:** Ali obstaja in če ja, kakšna je njegova naloge?
+* **Knjige in dokumenti:** Kateri so glavni dokumenti ki jih mora imeti družba (npr. knjiga o poslovanju, bilanca).
+
+**2. Delovanje družbe:**
+
+* **Upravni organ:**
+    * **Predsednik uprave:**
+    * **Člani uprave:**
+    * **Odgovornost in pristojnosti upravi:** Kdo sprejema odločitve, kaj je njihov obseg avtoritete.
+    * **Dolžina mandata:** Koliko časa ostanejo v funkciji.
+
+**3. Delniški kapital:**
+
+* **Velikost delniškega kapitala:**
+* **Način podelitve delnic:**
+* **Vrednost ene delnice:**
+* **Komanditne in delniške deleže:**
+    * Kako se določajo deleži komanditov in delničarjev?
+    * Kakšna je njihova pravica do izplačil in udeležba v odločitvah?
+
+**4. Pravice in obveznosti komanditov in delničarjev:**
+
+* **Komanditni deleži:**
+* **Delniške deleže:**
+* **Odgovornost komanditov in delničarjev:** Ali so odgovorni za dolge družbe? V kakšnem obsegu?
+
+
+**5. Skupščina delničarjev:**
+
+* **Pravica do udeležbe:** Kdo ima pravico glasovati na skupščini?
+* **Obveznosti skupščine:** Kaj mora skupajščina sprejeti, koliko časa se zbira in kdaj?
+* **Postopek odločanja:**
+
+**6. Drugi pomembni elementi:**
+
+* **Postupki za spremembo statuta:**
+* **Prenehanje družbe:** Kako se družba razpusti, kaj se zgodi s premoženjem?
+* **Podatki o poslovnem modelu:**  Kako deluje družba, kakšna je njen namen in cilj.
+
+Statuta mora biti v skladu s predpisi slovenske zakonodaje.
+
+
+**Priporočilo:** Pred sestavljanjem statuta KDD se posvetujte pri pravniku, da boste zagotovili, da je statut skladni z zakonom in da vam ustrezno ureja delovanje vaše družbe.

@@ -1,0 +1,104 @@
+// 54/1, 55
+Kdaj za namene letnega poročanja poročamo kot velika družba?
+---
+Velika družba je tista, ki v dveh zaporednih letih izpolnjuje najmanj dve od predpisanih meril:
+- Popvrečno število zaposlenih v poslovnem letu presega 250
+- Čisti prihodki od prodaje presegajo 40.000.000 EUR in
+- Vrednost aktive presega 20.000.000 EUR.
+V vsakem primeru je velika družba:
+Subjekt javnega interesa, če gre za družbo, s katerimi vrednostnimi papirji se trguje na organiziranem trgu vrednostnih papirjev, kreditna instituacija, kot jo opredeljuje zakon, ki ureja bančništvo, ter zavarovalnica in pokojninska družba, kot ju opredeluje zakon, ki ureja zavarovalništvo.
+Subjekt javnega interesa, če gre za družbo, ki je zavezana k reviziji na podlagi prvega odstavka 57. člena tega zakona, ker izpolnjuje merila za srednje ali vrelike družbe, in v kateri imajo država ali občine, skupaj ali samostojno, neposredno ali posredno, večinski delež,
+Borza vrednostnih papirjev
+Družba, ki mora po 56. členu tega zakona sestaviti konsolidirano letno poročilo.
+Poslovne knjige vodijo v skladu s ZGD-1, slovenskimi računovodskimi standardi ali mednarodnimi standardi računovodskega poročanja.
+-----
+// 54/1, 58
+Smo majhna družba. Kakšna pravila veljajo pri oddaji letnega poročila?
+---
+Družba mora na podlagi zaključenih poslovnih knjig za vsakp poslovno leto sestaviti letno poročilo v treh meseih po koncu poslovnega leta. Letna poročila iz prvega in sedmega odstavka 57.člena ZGD-1 ter konsolidirana letna poročila morajo družbe predložiti  zaradi javne objave skupaj z revizorjevih poročilom v elektronski obliki Ajpes v osmih mesecih po koncu poslovnega leta. Letno poročilo majhnih družb, z vrednostnimi papirji katerih se ne trguje na organiziranem trgu, in letno poročilo podjetnikov, je treba predložiti Ajpes v treh mesecih po koncu poslovnega leta.
+-----
+// 55, 56, 57
+Smo majhna družba. Ali moramo računovodske izkaze revidirati?
+---
+Revidirati je treba letna poročila velikih in srednje velikih družb. Torej tistih, ki v dveh zaporednih letih izpolnjujejo najmanj dve od predpisanih meril:
+Popvrečno število zaposlenih v poslovnem letu presega 250
+Čisti prihodki od prodaje presegajo 40.000.000 EUR in
+Vrednost aktive presega 20.000.000 EUR.
+V vsakem primeru se družba razvršča med veliko družbo, katere računovodske izkaze je treba revidirati, če je:
+Subjekt javnega interesa, če gre za družbo, s katerimi vrednostnimi papirji se trguje na organiziranem trgu vrednostnih papirjev, kreditna instituacija, kot jo opredeljuje zakon, ki ureja bančništvo, ter zavarovalnica in pokojninska družba, kot ju opredeluje zakon, ki ureja zavarovalništvo
+Subjekt javnega interesa, če gre za družbo, ki je zavezana k reviziji na podlagi prvega odstavka 57. člena tega zakona, ker izpolnjuje merila za srednje ali vrelike družbe, in v kateri imajo država ali občine, skupaj ali samostojno, neposredno ali posredno, večinski delež,
+Borza vrednostnih papirjev
+Družba, ki mora po 56.členu tega zakona sestaviti konsolidirano letno poročilo.
+-----
+// 55/8, 60/2 in 3
+Smo majhna družba. Kaj moramo pripraviti za namene letnega poročanja?
+---
+Letno poročilo majhnih kapitalskih družb, z vrednostnimi papirji katerih se trguje na organiziranem trgu se sestoji iz:
+Bilance stanja, izkaza poslovnega izida, izkaza denarnih tokov, izkaza gibanja kapitala, izkaza drugega vseobsegajočega donosa, priloge s pojasnili k izkazom in poslovnega poročila iz 70. člena tega zakona.
+Letno poročilo majhnih kapitalskih družb, z vrednostnimi papirji katerih se ne trguje na organiziranem trgu, je sestavljeno vsaj iz:
+- Bilance stanja
+- Izkaza poslovnega izida in
+- Priloge s pojasnili k izkazom.
+Za družbe, ki niso kapitalske družbe in tiste družbe, ki so osebne družbe, pri katerih za njihove obveznosti neomejeno odgovarja fizična oseba, pa sestavijo letno poročilo iz bilance stanja in izkaza poslovnega izida.
+-----
+// 54, 60/3, 73
+Sem samostojhni podjetjetnik posameznik. Kakšne zahteve veljajo glede vodenja poslovnih knjig?
+---
+Samostojni podjetniki morajo tako kot družbe voditi poslovne knjige in jih enkrat letno zaključiti v skladu z določili ZGD-1 in slovenskimi računovodskimi standardi ali mednarodnimi standardi računovodskega poročanja. Način vodenja poslovnih knjig in sestavljanja računovodskih izkazov podjetnika ureja poseben slovenski računovodski standard. V treh mesecih po zaključku poslovnega leta morajo sestaviti letno poročilo. Poslovne knjige vodi po sistemu dvostavnega knjigovodstva. Če samostojni podjetnik v zadanjem poslovnem letu ni prekoračil dve od treh meril:
+- Povprečno število zaposlenih ne presega tri
+- Letni prihodki so nižji od 50.000 eur
+- Povprečna vrednost aktive, izračunana kot polovica seštevka vrednosti aktive na prvi in zadnji dan poslovnega leta ne presega 25.000 eur
+Lahko podjetnik vodi poslovne knjige po sistemu enostavnega knjigovodstva.
+Letno poročilo samostojnega podjetnika je sestavljeno vsaj iz bilance stanja in izkaza poslovnega izida.
+Ne glede na navedeno pa podjetniku ni treba voditi poslovnih knjig in sestavljati letnega poročila, če v skladu z zakonom, ki ureja dohodnino, ugotavlja davčno osnovo za davek od dohodka iz dejavnosti z upoštevanjem normiranih odhodkov.
+-----
+// 68, 72a
+Sem samostojni podjetnik posameznik in sem dejavnost prenesel na ženo. Je to mogoče? Kaj moram storiti?
+---
+Podjetnik lahko za čas svojega življenja prenese podjetje na drugo fizično osebo. S prenosom preidejo na podjetje prevzemnika vse pravice in obveznosrti z zvezi s prevzetim podjetjem. Podjetnik prevzemnik kot univerzalni pravni naslednik vstopi v vsa pravna razmerja v zvezi s prenesenim podjetjem podjetnika. Podjetnik in podjetnik prevzmenik morata skleniti pogodbo o prenosu podjetja v obliki notarskega zapisa.
+Prevzeti samostojni podjetnik mora pripraviti zaključno poročilo po stanju na dan obračuna združitve.
+-----
+// 280, 514a
+Ali mora imeti družba z omejeno odgovornostjo revizijsko komisijo?
+---
+Nadzorni svet v delniški družbi lahko imenuje revizijsko komisijo.
+Revijsko komisijo mora imeti tudi družba, ki ni delniška družba in je subjekt javnega interesa, razen če:
+- Izpolnjuje merila za srednje družbe in je odvisna družba ali
+- Je odvisna družba, povezana s pogodbo o obvladovanju in v njej naloge revizijske komisije opravlja revizijska komisija obvladujoče družbe.
+-----
+// 279, 280
+Kaj dela revizijska komisija?
+---
+Revizijska komisija pripravlja predloge sklepov nadzornega sveta, skrbi za njihovo uresničitev in opravlja druge strokovne naloge. Komisija ne more odločati o vprašanjih, ki so v pristojnosti nadzornega sveta.
+Naloge revizijske komisije so:
+- spremlja postopek računovodskega poročanja ter pripravlja priporočila in predloge za zagotovitev njegove celovitosti,
+- spremlja učinkovitost in uspešnost notranje kontrole v družbi, notranje revizije, če obstaja, in sistemov za obvladovanje tveganja,
+- spremlja obvezne revizije letnih in konsolidiranih računovodskih izkazov, zlasti uspešnost obvezne revizije, pri čemer upošteva vse ugotovitve in zaključke pristojnega organa,
+- pregleduje in spremlja neodvisnost revizorja letnega poročilo družbe, zlasti glede zagotavljanja dodatnih nerevizijskih storitev,
+- odgovarja za postopek izbire revizorja in predlaga nadzornemu svetu imenovanje kandidata za revizorja letnega poročila družbe,
+- nadzoruje neoporečnost finančnih informacij, ki jih daje družba,
+- ocenjuje sestavo letnega poročila, vključno z oblikovanjem predloga za nadzorni svet,
+- sodeluje pri določitvi pomembnejših področij revidiranja,
+- sodeluje pri pripravi pogodbe med revizorjem in družbo, pri čemer so prepovedana vsa pogodbena določila, ki skupščini omejujejo izbiro imenovanja revizorja. Vse take določbe so nične,
+- poroča nadzornemu svetu o rezultatu obvezne revizije, vključno s pojasnilom, kako je obvezna revizija prispevala k celovitosti računovodskega poročanja in kakšno vlogo je imela revizijska komisija v tem postopku,
+- opravlja druge naloge, določene s statutom ali sklepom nadzornega sveta,
+- sodeluje z revizorjem pri opravljanju revizije letnega poročila družbe, zlasti z medsebojnim obveščanjem o glavnih zadevah v zvezi z revizijo, in
+- sodeluje z notranjim revizorjem, zlasti z medsebojnim obveščanjem o glavnih zadevah v zvezi z notranjo revizijo.
+-----
+// 57, 188, 194, 207, 294b, 318, 322, 334
+Kaj dela revizor?
+---
+Letna poročila velikih in srednjih kapitalskih družb ter dvojih družb mora pregledati revizor na način in pod pogoji, določenimi z zakonom, ki ureja revidiranje. Revizor mora revidirati računovodsko poročilo ter pregledati poslovno poročilo v obsegu, potrebnem, da preveri, ali je njegova vsebina v skladu z drugimi sestavinami letnega poročila. Revizor preveri, ali poslovno poročilo vsebuje izjavo o upravljanju družbe in izjavo o nefinančnem poslovanju ter pregleda njuno formalno popolnost, vsebinsko pa se v mnenju omeji na pregled podatkov iz 3. in 4. točke petega odstavka 70. člena tega zakona. Vse to velja tudi za konsolidirana letna poročila.
+V okviru revizije letnega poročila mora pregledati tudi poročilo o prejemkih in o tem izdati poročilo.
+Revizor pregleda in poda mnenje tudi v primeru:
+- Naknadne ustanovitve (poustanovitve) družbe
+- Ustanovitve družbe
+- Postopne (sukcesivne) ustanovtive družbe
+- Preveritev ustanovitvenih postopkov ter vodenja posameznih poslov družbe
+- Izredne revizije zaradi podcenitve postavk v letnem poročilu družbe
+- Povečanja osnovnega kapitala s stvarnimi vložki.
+-----
+// 187, 334, 334a
+Kaj so stvarni vložki?
+---
+Delničarji lahko ustanovijo družbo z vložki. Te lahko vplačajo v denarju ali v nedenarni obliki (stvarni vložki). Kot stvarni vložki ali stvarni prevzem se lahko štejejo le tisti premoženjski predmeti ali pravice, katerih gospodarska vrednost je ugotovljiva. Dolžnost opraviti storitev se ne šteje za stvarni vložek ali stvarni prevzem. Pod pogoji kot jih določa zakon, mora povečanje osnovnega kapitala s stvarnimi vložki pogledati eden ali več revizorjev. Registrski organ lahko zavrne vpis povečanja osnovnega kapitala, če je vrednost stvarnega vložka bistveno nižja od najmanjšega emisijskega zneska delnic, ki jih je treba zanj zagotoviti.
